@@ -24,7 +24,6 @@ rm vdjdb-2021-09-05.zip
 - Download HLA proteins sequences on IMGT-HLA repository
 
 ```
-
 wget https://github.com/ANHIG/IMGTHLA/raw/Latest/fasta/hla_prot.fasta -O IMGT_HLA.prot.fasta
 
 ```
