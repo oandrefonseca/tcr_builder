@@ -11,7 +11,6 @@
 wget https://github.com/antigenomics/vdjdb-db/releases/download/2021-09-05/vdjdb-2021-09-05.zip
 unzip vdjdb-2021-09-05.zip -d vdjdb
 rm vdjdb-2021-09-05.zip
-
 ```
 
 ## 2. TCRModel database
