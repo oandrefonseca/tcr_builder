@@ -14,7 +14,9 @@ tcr0002,AAAAAAAAAAAAAAAAAAAAAA,BBBBBBBBBBBBBBBBBBBBBB,TRAV12-3*02,TRAJ1*01,TRBV1
 
 Usage:
 
+```
 python3 tcr_assembly.py template.csv
+```
 
 Output:
 
