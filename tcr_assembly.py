@@ -25,6 +25,7 @@ def main(template):
     '''
 
     tcr_dictionary = tcr_database()
+
     with open(template, 'r') as csvfile:
         spamreader = csv.DictReader(csvfile)
         for row in spamreader:
@@ -36,10 +37,9 @@ def main(template):
             except:
                 quit("Soemthing went wrong!")
 
-            with open(f"{row['tcr_name']}.fasta", "w") as fw:
+            with open(f"./output/{row['tcr_name']}.fasta", "w") as fw:
                 for chain, sequence in tcr_sequence.items(): 
-                    fw.write(f">{row['tcr_name'] + chain}" + "\n" + sequence + "\n")
-
+                    fw.write(f">{row['tcr_name']}_" + chain + "\n" + sequence + "\n")
 
 
 if __name__ == "__main__":

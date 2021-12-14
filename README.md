@@ -7,6 +7,8 @@ Scripts to build multiple TCRpMHC fasta based on TCRModel and IMGT database
 Input:
 
 ```
+cat template.csv
+
 tcr_name,cdr3_alpha,cdr3_beta,v_and_d_alpha,j_alpha,v_and_d_beta,j_beta
 tcr0001,AAAAAAAAAAAAAAAAAAAAAA,BBBBBBBBBBBBBBBBBBBBBB,TRAV1-1*01,TRAJ1*01,TRBV10-1*01,TRBJ1-1*01
 tcr0002,AAAAAAAAAAAAAAAAAAAAAA,BBBBBBBBBBBBBBBBBBBBBB,TRAV12-3*02,TRAJ1*01,TRBV10-1*01,TRBJ1-1*01
@@ -21,7 +23,8 @@ python3 tcr_assembly.py template.csv
 Output:
 
 ```
-cat data/output/tcr0001.fasta 
+cat output/tcr0001.fasta 
+
 >tcr0001Alpha
 SLEQPSEVTAVEGAIVQINCTYQTSGFYGLSWYQQHDGGAPTFLSYNALDGLEETGRFSSFLSRSDSYGYLLLQELQMKDSASYFAAAAAAAAAAAAAAAAAAAAAAGKGTRVSTSP
 >tcr0001Beta
