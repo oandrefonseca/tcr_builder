@@ -14,7 +14,7 @@ tcr0001,AAAAAAAAAAAAAAAAAAAAAA,BBBBBBBBBBBBBBBBBBBBBB,TRAV1-1*01,TRAJ1*01,TRBV10
 tcr0002,AAAAAAAAAAAAAAAAAAAAAA,BBBBBBBBBBBBBBBBBBBBBB,TRAV12-3*02,TRAJ1*01,TRBV10-1*01,TRBJ1-1*01,PPPPPPPPP,HLA00146
 ```
 
-- Please, check IMGT to HLA nomenclature map at (IMGT HLA Map)[data/IMGT_HLA.map.tsv].
+- Please, check IMGT to HLA nomenclature map at (IMGT HLA Map)[tcr_builder/blob/main/data/IMGT_HLA.map.tsv].
 - Also, there is a reference table at: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5805642/
 
 Usage:
