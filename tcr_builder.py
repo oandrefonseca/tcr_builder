@@ -4,6 +4,7 @@ import sys
 import csv
 from Bio import SeqIO
 import pickle
+from pprint import pprint
 
 def imgt_database():
     ''' Description '''
@@ -46,10 +47,13 @@ def main(template):
                     'Alpha' : tcr_dictionary[row['v_and_d_alpha']] + row['cdr3_alpha'] + tcr_dictionary[row['j_alpha']],
                     'Beta' : tcr_dictionary[row['v_and_d_beta']] + row['cdr3_beta'] + tcr_dictionary[row['j_beta']],
                     'peptide': row['peptide'],
-                    'HLA': imgt_dictionary[row['imgt_hla']]
+                    row['imgt_hla'] : imgt_dictionary[row['imgt_hla']]
                 }
             except:
                 quit("Soemthing went wrong!")
+
+
+            # pprint(complex_sequence)
 
             with open(f"./output/{row['tcr_name']}.fasta", "w") as fw:
                 for chain, sequence in complex_sequence.items(): 
