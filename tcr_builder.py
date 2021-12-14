@@ -3,42 +3,56 @@
 import sys
 import csv
 from Bio import SeqIO
+import pickle
+
+def imgt_database():
+    ''' Description '''
+
+    try:
+        with open('./data/IMGT_HLA.pickle', 'rb') as fh:
+            imgt_dictionary = pickle.load(fh)
+    except:
+        quit("Please check IMGT_HLA.pickle file")
+
+    return imgt_dictionary
 
 def tcr_database():
     ''' Description '''
 
-    tcr_dictionary = {}
-    with open('./data/TCR_database.tsv') as fh:
-        for row in fh:
-            columns = list(map(lambda field: field.strip(), row.split()))
-            tcr_dictionary.setdefault(
-                columns[0], columns[1]
-            )
+    try:
+        with open('./data/TCRModel.pickle', 'rb') as fh:
+            tcr_dictionary = pickle.load(fh)
+    except:
+        quit("Please check TCRModel.pickle file")
+
     return tcr_dictionary
 
 def main(template):
     ''' Description 
     
-    tcr_name,cdr3_alpha,cdr3_beta,v_and_d_alpha,j_alpha,v_and_d_beta,j_beta
-    tcr0001,AAAAAAAAAAAAAAAAAAAAAA,BBBBBBBBBBBBBBBBBBBBBB,TRAV1-1*01,TRAJ1*01,TRBV10-1*01,TRBJ1-1*01
+    tcr_name,cdr3_alpha,cdr3_beta,v_and_d_alpha,j_alpha,v_and_d_beta,j_beta,peptide,imgt_hla
+    tcr0001,AAAAAAAAAAAAAAAAAAAAAA,BBBBBBBBBBBBBBBBBBBBBB,TRAV1-1*01,TRAJ1*01,TRBV10-1*01,TRBJ1-1*01,PPPPPPPPP,HLA00005
 
     '''
 
     tcr_dictionary = tcr_database()
+    imgt_dictionary = imgt_database()
 
     with open(template, 'r') as csvfile:
         spamreader = csv.DictReader(csvfile)
         for row in spamreader:
             try:
-                tcr_sequence = {
+                complex_sequence = {
                     'Alpha' : tcr_dictionary[row['v_and_d_alpha']] + row['cdr3_alpha'] + tcr_dictionary[row['j_alpha']],
-                    'Beta' : tcr_dictionary[row['v_and_d_beta']] + row['cdr3_beta'] + tcr_dictionary[row['j_beta']]
+                    'Beta' : tcr_dictionary[row['v_and_d_beta']] + row['cdr3_beta'] + tcr_dictionary[row['j_beta']],
+                    'peptide': row['peptide'],
+                    'HLA': imgt_dictionary[row['imgt_hla']]
                 }
             except:
                 quit("Soemthing went wrong!")
 
             with open(f"./output/{row['tcr_name']}.fasta", "w") as fw:
-                for chain, sequence in tcr_sequence.items(): 
+                for chain, sequence in complex_sequence.items(): 
                     fw.write(f">{row['tcr_name']}_" + chain + "\n" + sequence + "\n")
 
 

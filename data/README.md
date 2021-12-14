@@ -30,6 +30,8 @@ wget https://github.com/ANHIG/IMGTHLA/raw/Latest/fasta/hla_prot.fasta -O IMGT_HL
 
 ```
 
+To be sure which are HLA ids, please check it at: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5805642/
+
 ## 4. Prepare databases (Under construction)
 
 - Install and running snakemake
