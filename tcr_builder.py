@@ -28,13 +28,16 @@ def tcr_database():
 
     return tcr_dictionary
 
-def main(template):
+def main(template, outdir):
     ''' Description 
     
     tcr_name,cdr3_alpha,cdr3_beta,v_and_d_alpha,j_alpha,v_and_d_beta,j_beta,peptide,imgt_hla
     tcr0001,AAAAAAAAAAAAAAAAAAAAAA,BBBBBBBBBBBBBBBBBBBBBB,TRAV1-1*01,TRAJ1*01,TRBV10-1*01,TRBJ1-1*01,PPPPPPPPP,HLA00005
 
     '''
+
+    if not outdir:
+        outdir = "./output"
 
     tcr_dictionary = tcr_database()
     imgt_dictionary = imgt_database()
@@ -52,13 +55,12 @@ def main(template):
             except:
                 quit("Soemthing went wrong!")
 
-
             # pprint(complex_sequence)
 
-            with open(f"./output/{row['tcr_name']}.fasta", "w") as fw:
+            with open(f"{outdir}/{row['tcr_name']}.fasta", "w") as fw:
                 for chain, sequence in complex_sequence.items(): 
                     fw.write(f">{row['tcr_name']}_" + chain + "\n" + sequence + "\n")
 
 
 if __name__ == "__main__":
-    main(sys.argv[1])
+    main(sys.argv[1], sys.argv[2])

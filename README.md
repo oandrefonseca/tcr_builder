@@ -4,11 +4,9 @@ Scripts to build multiple TCRpMHC fasta based on TCRModel and IMGT database
 
 ---
 
-Input:
+Input: template.csv
 
 ```
-cat template.csv
-
 tcr_name,cdr3_alpha,cdr3_beta,v_and_d_alpha,j_alpha,v_and_d_beta,j_beta,peptide,imgt_hla
 tcr0001,AAAAAAAAAAAAAAAAAAAAAA,BBBBBBBBBBBBBBBBBBBBBB,TRAV1-1*01,TRAJ1*01,TRBV10-1*01,TRBJ1-1*01,PPPPPPPPP,HLA00005
 tcr0002,AAAAAAAAAAAAAAAAAAAAAA,BBBBBBBBBBBBBBBBBBBBBB,TRAV12-3*02,TRAJ1*01,TRBV10-1*01,TRBJ1-1*01,PPPPPPPPP,HLA00146
@@ -23,11 +21,10 @@ Usage:
 python3 tcr_builder.py template.csv
 ```
 
-Output:
+Output: output/tcr0001.fasta 
+
 
 ```
-cat output/tcr0001.fasta 
-
 >tcr0001_Alpha
 SLEQPSEVTAVEGAIVQINCTYQTSGFYGLSWYQQHDGGAPTFLSYNALDGLEETGRFSSFLSRSDSYGYLLLQELQMKDSASYFAAAAAAAAAAAAAAAAAAAAAAGKGTRVSTSP
 >tcr0001_Beta
