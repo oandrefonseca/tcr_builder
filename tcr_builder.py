@@ -41,10 +41,27 @@ def main(template, outdir):
 
     tcr_dictionary = tcr_database()
     imgt_dictionary = imgt_database()
+    
+    #for segment in tcr_dictionary.keys():
+    #    print(segment)
+    
 
     with open(template, 'r') as csvfile:
         spamreader = csv.DictReader(csvfile)
         for row in spamreader:
+                        
+            if not tcr_dictionary[row['v_and_d_alpha']]:
+                quit(f"{row['v_and_d_alpha']} not in the TCR IMGT database.")
+            
+            if not tcr_dictionary[row['j_alpha']]:
+                quit(f"{row['j_alpha']} not in the TCR IMGT database.")
+                
+            if not tcr_dictionary[row['v_and_d_beta']]:
+                    quit(f"{row['v_and_d_beta']} not in the TCR IMGT database.")
+            
+            if not tcr_dictionary[row['j_beta']]:
+                quit(f"{row['j_beta']} not in the TCR IMGT database.")
+            
             try:
                 complex_sequence = {
                     'Alpha' : tcr_dictionary[row['v_and_d_alpha']] + row['cdr3_alpha'] + tcr_dictionary[row['j_alpha']],
@@ -53,7 +70,7 @@ def main(template, outdir):
                     row['imgt_hla'] : imgt_dictionary[row['imgt_hla']]
                 }
             except:
-                quit("Soemthing went wrong!")
+                quit("Something went wrong!")
 
             # pprint(complex_sequence)
 

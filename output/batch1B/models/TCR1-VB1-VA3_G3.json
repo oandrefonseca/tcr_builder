@@ -1,0 +1,1171 @@
+{
+    "pmhc_templates": [
+        {
+            "pep_identity": 33.33333333333333, 
+            "total_identity": 66.66666666666666, 
+            "pdb_id": "3HPJ", 
+            "pep_alignment": "          1        \n          |        \nTemplate: RMFPNAPYL\n            | | |  \nInput:    SLFWNEPAI", 
+            "mhc_alignment": "          1        10        20        30        40        50        60        70        80        90        100       110       120       130       140       150       160       170       180\n          |        |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         | \nTemplate: GSHSMRYFFTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEG-PEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKDYIALKEDLRSWTAADMAAQTTKHKWEAAHVAEQ-LRAYLEGTCVEWLRRYLENGKETL\n          |||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||\nInput:    GSHSMRYFFTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEG-PEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKDYIALKEDLRSWTAADMAAQTTKHKWEAAHVAEQ-LRAYLEGTCVEWLRRYLENGKETL", 
+            "mhc_identity": 100.0
+        }, 
+        {
+            "pep_identity": 33.33333333333333, 
+            "total_identity": 66.66666666666666, 
+            "pdb_id": "5ENW", 
+            "pep_alignment": "          1        \n          |        \nTemplate: GLKEGIPAL\n           |    || \nInput:    SLFWNEPAI", 
+            "mhc_alignment": "          1        10        20        30        40        50        60        70        80        90        100       110       120       130       140       150       160       170       180\n          |        |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         | \nTemplate: GSHSMRYFFTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEG-PEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKDYIALKEDLRSWTAADMAAQTTKHKWEAAHVAEQ-LRAYLEGTCVEWLRRYLENGKETL\n          |||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||\nInput:    GSHSMRYFFTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEG-PEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKDYIALKEDLRSWTAADMAAQTTKHKWEAAHVAEQ-LRAYLEGTCVEWLRRYLENGKETL", 
+            "mhc_identity": 100.0
+        }, 
+        {
+            "pep_identity": 33.33333333333333, 
+            "total_identity": 66.66666666666666, 
+            "pdb_id": "1QSF", 
+            "pep_alignment": "          1        \n          |        \nTemplate: LLFGYPVAV\n           ||    | \nInput:    SLFWNEPAI", 
+            "mhc_alignment": "          1        10        20        30        40        50        60        70        80        90        100       110       120       130       140       150       160       170       180\n          |        |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         | \nTemplate: GSHSMRYFFTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEG-PEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKDYIALKEDLRSWTAADMAAQTTKHKWEAAHVAEQ-LRAYLEGTCVEWLRRYLENGKETL\n          |||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||\nInput:    GSHSMRYFFTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEG-PEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKDYIALKEDLRSWTAADMAAQTTKHKWEAAHVAEQ-LRAYLEGTCVEWLRRYLENGKETL", 
+            "mhc_identity": 100.0
+        }, 
+        {
+            "pep_identity": 22.22222222222222, 
+            "total_identity": 61.111111111111114, 
+            "pdb_id": "1S8D", 
+            "pep_alignment": "          1        \n          |        \nTemplate: SLANTVATL\n          ||       \nInput:    SLFWNEPAI", 
+            "mhc_alignment": "          1        10        20        30        40        50        60        70        80        90        100       110       120       130       140       150       160       170       180\n          |        |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         | \nTemplate: GSHSMRYFFTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEG-PEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKDYIALKEDLRSWTAADMAAQTTKHKWEAAHVAEQ-LRAYLEGTCVEWLRRYLENGKETL\n          |||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||\nInput:    GSHSMRYFFTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEG-PEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKDYIALKEDLRSWTAADMAAQTTKHKWEAAHVAEQ-LRAYLEGTCVEWLRRYLENGKETL", 
+            "mhc_identity": 100.0
+        }, 
+        {
+            "pep_identity": 22.22222222222222, 
+            "total_identity": 61.111111111111114, 
+            "pdb_id": "3I6G", 
+            "pep_alignment": "          1        \n          |        \nTemplate: GLMWLSYFV\n           | |     \nInput:    SLFWNEPAI", 
+            "mhc_alignment": "          1        10        20        30        40        50        60        70        80        90        100       110       120       130       140       150       160       170       180\n          |        |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         | \nTemplate: GSHSMRYFFTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEG-PEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKDYIALKEDLRSWTAADMAAQTTKHKWEAAHVAEQ-LRAYLEGTCVEWLRRYLENGKETL\n          |||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||\nInput:    GSHSMRYFFTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEG-PEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKDYIALKEDLRSWTAADMAAQTTKHKWEAAHVAEQ-LRAYLEGTCVEWLRRYLENGKETL", 
+            "mhc_identity": 100.0
+        }, 
+        {
+            "pep_identity": 22.22222222222222, 
+            "total_identity": 61.111111111111114, 
+            "pdb_id": "1S9W", 
+            "pep_alignment": "          1        \n          |        \nTemplate: SLLMWITQC\n          ||       \nInput:    SLFWNEPAI", 
+            "mhc_alignment": "          1        10        20        30        40        50        60        70        80        90        100       110       120       130       140       150       160       170       180\n          |        |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         | \nTemplate: GSHSMRYFFTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEG-PEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKDYIALKEDLRSWTAADMAAQTTKHKWEAAHVAEQ-LRAYLEGTCVEWLRRYLENGKETL\n          |||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||\nInput:    GSHSMRYFFTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEG-PEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKDYIALKEDLRSWTAADMAAQTTKHKWEAAHVAEQ-LRAYLEGTCVEWLRRYLENGKETL", 
+            "mhc_identity": 100.0
+        }, 
+        {
+            "pep_identity": 33.33333333333333, 
+            "total_identity": 57.72811918063314, 
+            "pdb_id": "4O2C", 
+            "pep_alignment": "          1        \n          |        \nTemplate: SHVAVENAL\n          |    | | \nInput:    SLFWNEPAI", 
+            "mhc_alignment": "          1        10        20        30        40        50        60        70        80        90        100       110       120       130       140       150       160       170       180\n          |        |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         | \nTemplate: GSHSMRYFYTSVSRPGRGEPRFISVGYVDDTQFVRFDSDAASPREEPRAPWIEQEG-PEYWDRNTQICKTNTQTDRESLRNLRGYYNQSEAGSHTLQRMYGCDVGPDGRLLRGHNQFAYDGKDYIALNEDLSSWTAADTAAQITQRKWEAARVAEQ-LRTYLEGTCVEWLRRYLENGKETL\n          |||||||| |||||||||||||| |||||||||||||||||| | ||||||||||| |||||  |   |   || |  |  |||||||||||||| ||||||||| | | |||  | |||||||||| ||| |||||| ||| |  ||||| |||| || |||||||||||||||||||||\nInput:    GSHSMRYFFTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEG-PEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKDYIALKEDLRSWTAADMAAQTTKHKWEAAHVAEQ-LRAYLEGTCVEWLRRYLENGKETL", 
+            "mhc_identity": 82.12290502793296
+        }, 
+        {
+            "pep_identity": 33.33333333333333, 
+            "total_identity": 57.72811918063314, 
+            "pdb_id": "5IEK", 
+            "pep_alignment": "          1        \n          |        \nTemplate: REFSKEPEL\n            |  ||  \nInput:    SLFWNEPAI", 
+            "mhc_alignment": "          1        10        20        30        40        50        60        70        80        90        100       110       120       130       140       150       160       170       180\n          |        |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         | \nTemplate: GSHSMRYFHTSVSRPGRGEPRFITVGYVDDTLFVRFDSDATSPRKEPRAPWIEQEG-PEYWDRETQISKTNTQTYRESLRNLRGYYNQSEAGSHTLQSMYGCDVGPDGRLLRGHNQYAYDGKDYIALNEDLRSWTAADTAAQITQRKWEAARVAEQ-LRAYLEGECVEWLRRYLENGKETL\n          |||||||| |||||||||||||| ||||||| |||||||| | | ||||||||||| ||||| ||   |   || |  |  |||||||||||||| | ||||||| | | |||  |||||||||||| |||||||||| ||| |  ||||| |||| ||||||| ||||||||||||||||\nInput:    GSHSMRYFFTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEG-PEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKDYIALKEDLRSWTAADMAAQTTKHKWEAAHVAEQ-LRAYLEGTCVEWLRRYLENGKETL", 
+            "mhc_identity": 82.12290502793296
+        }, 
+        {
+            "pep_identity": 44.44444444444444, 
+            "total_identity": 57.417752948479205, 
+            "pdb_id": "1ZT7", 
+            "pep_alignment": "          1        \n          |        \nTemplate: SEFLLEKRI\n          | |  |  |\nInput:    SLFWNEPAI", 
+            "mhc_alignment": "          1        10        20        30        40        50        60        70        80        90        100       110       120       130       140       150       160       170       180\n          |        |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         | \nTemplate: GPHSLRYFHTAVSRPGLGKPRFISVGYVDDTQFVRFDSDAENPRYEPRVRWMEQVE-PEYWERNTQIAKGNEQIFRVNLRTALRYYNQSAGGSHTFQRMYGCEVGSDWRLLRGYEQYAYDGCDYIALNEDLKTWTAADMAALITKHKWEQAGDAER-DRAYLEGTCVEWLRRYLQLGNATL\n          | || ||| | ||||| | |||| ||||||||||||||||   | |||  | ||   ||||   |   |   |  || | |   |||||  |||| |||||| |||||| |||| |||||| ||||| |||  ||||||||  |||||| |  ||   ||||||||||||||||  |  ||\nInput:    GSHSMRYFFTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEG-PEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKDYIALKEDLRSWTAADMAAQTTKHKWEAAHVAEQ-LRAYLEGTCVEWLRRYLENGKETL", 
+            "mhc_identity": 70.39106145251397
+        }, 
+        {
+            "pep_identity": 33.33333333333333, 
+            "total_identity": 56.666666666666664, 
+            "pdb_id": "5F1I", 
+            "pep_alignment": "          1        \n          |        \nTemplate: KLFSGELTK\n           ||  |   \nInput:    SLFWNEPAI", 
+            "mhc_alignment": "          1        10        20        30        40        50        60        70        80        90        100       110       120       130       140       150       160       170       180\n          |        |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         | \nTemplate: GSHSLRYFYTSVSRPGRGDPRFIAVGYVDDTQFVRFDSDAATGRTEPRAPWVEQEG-PEYWDGETRKVKETAQVYRVDLDTLRGYYNQSEAGSHTIQTMYGCDLGPGGRLLRGYRQDAYDGADYIALNEDLRSWTAADTAAQITRRKWEAAGVAELQWRNYLETTCVEWLQRYLEMGKETL\n          |||| ||| ||||||||| ||||||||||||||||||||||  | |||||| |||| ||||||||||||   |  |||| ||||||||||||||| | ||||| |   | |||| | |||| ||||| |||||||||| ||| |  ||||| ||| X | ||| |||||| |||| |||||\nInput:    GSHSMRYFFTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEG-PEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKDYIALKEDLRSWTAADMAAQTTKHKWEAAHVAEQ-LRAYLEGTCVEWLRRYLENGKETL", 
+            "mhc_identity": 80.0
+        }, 
+        {
+            "pep_identity": 11.11111111111111, 
+            "total_identity": 55.55555555555556, 
+            "pdb_id": "3PWL", 
+            "pep_alignment": "          1        \n          |        \nTemplate: LGYGFVNYI\n                  |\nInput:    SLFWNEPAI", 
+            "mhc_alignment": "          1        10        20        30        40        50        60        70        80        90        100       110       120       130       140       150       160       170       180\n          |        |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         | \nTemplate: GSHSMRYFFTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEG-PEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKDYIALKEDLRSWTAADMAAQTTKHKWEAAHVAEQ-LRAYLEGTCVEWLRRYLENGKETL\n          |||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||\nInput:    GSHSMRYFFTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEG-PEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKDYIALKEDLRSWTAADMAAQTTKHKWEAAHVAEQ-LRAYLEGTCVEWLRRYLENGKETL", 
+            "mhc_identity": 100.0
+        }, 
+        {
+            "pep_identity": 11.11111111111111, 
+            "total_identity": 55.55555555555556, 
+            "pdb_id": "1HHG", 
+            "pep_alignment": "          1        \n          |        \nTemplate: TLTSCNTSV\n           |       \nInput:    SLFWNEPAI", 
+            "mhc_alignment": "          1        10        20        30        40        50        60        70        80        90        100       110       120       130       140       150       160       170       180\n          |        |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         | \nTemplate: GSHSMRYFFTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEG-PEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKDYIALKEDLRSWTAADMAAQTTKHKWEAAHVAEQ-LRAYLEGTCVEWLRRYLENGKETL\n          |||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||\nInput:    GSHSMRYFFTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEG-PEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKDYIALKEDLRSWTAADMAAQTTKHKWEAAHVAEQ-LRAYLEGTCVEWLRRYLENGKETL", 
+            "mhc_identity": 100.0
+        }, 
+        {
+            "pep_identity": 11.11111111111111, 
+            "total_identity": 55.55555555555556, 
+            "pdb_id": "5MEP", 
+            "pep_alignment": "          1        \n          |        \nTemplate: ILGKFLHWL\n           |       \nInput:    SLFWNEPAI", 
+            "mhc_alignment": "          1        10        20        30        40        50        60        70        80        90        100       110       120       130       140       150       160       170       180\n          |        |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         | \nTemplate: GSHSMRYFFTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEG-PEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKDYIALKEDLRSWTAADMAAQTTKHKWEAAHVAEQ-LRAYLEGTCVEWLRRYLENGKETL\n          |||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||\nInput:    GSHSMRYFFTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEG-PEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKDYIALKEDLRSWTAADMAAQTTKHKWEAAHVAEQ-LRAYLEGTCVEWLRRYLENGKETL", 
+            "mhc_identity": 100.0
+        }, 
+        {
+            "pep_identity": 11.11111111111111, 
+            "total_identity": 55.55555555555556, 
+            "pdb_id": "5E00", 
+            "pep_alignment": "          1        \n          |        \nTemplate: GVWIRTPPA\n                |  \nInput:    SLFWNEPAI", 
+            "mhc_alignment": "          1        10        20        30        40        50        60        70        80        90        100       110       120       130       140       150       160       170       180\n          |        |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         | \nTemplate: GSHSMRYFFTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEG-PEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKDYIALKEDLRSWTAADMAAQTTKHKWEAAHVAEQ-LRAYLEGTCVEWLRRYLENGKETL\n          |||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||\nInput:    GSHSMRYFFTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEG-PEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKDYIALKEDLRSWTAADMAAQTTKHKWEAAHVAEQ-LRAYLEGTCVEWLRRYLENGKETL", 
+            "mhc_identity": 100.0
+        }, 
+        {
+            "pep_identity": 11.11111111111111, 
+            "total_identity": 55.55555555555556, 
+            "pdb_id": "3D25", 
+            "pep_alignment": "          1        \n          |        \nTemplate: VLHDDLLEA\n           |       \nInput:    SLFWNEPAI", 
+            "mhc_alignment": "          1        10        20        30        40        50        60        70        80        90        100       110       120       130       140       150       160       170       180\n          |        |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         | \nTemplate: GSHSMRYFFTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEG-PEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKDYIALKEDLRSWTAADMAAQTTKHKWEAAHVAEQ-LRAYLEGTCVEWLRRYLENGKETL\n          |||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||\nInput:    GSHSMRYFFTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEG-PEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKDYIALKEDLRSWTAADMAAQTTKHKWEAAHVAEQ-LRAYLEGTCVEWLRRYLENGKETL", 
+            "mhc_identity": 100.0
+        }
+    ], 
+    "tcr_pmhc_pir": "/services/TCRpMHCmodels-1.0/tmp/6238D6B4000069153E62BC23/model_TCR-pMHC.pir", 
+    "chains": [
+        {
+            "templates": {
+                "A1": "3QEU", 
+                "framework": "3QEU", 
+                "A3": "4GRM", 
+                "A2": "3QEU", 
+                "packing": "4JFH"
+            }, 
+            "aligned_sequence": "---VEQNSGPLSVPEGAIASLNCTYSDR-------GSQSFFWYRQY-SGKSPELIMFIYS-----NGDKE-D-GRFTAQL-N-KASQYVSLLIRDSQPSDSATYLCAVNN-------------ARLMFGDGTQLVVKP", 
+            "name": "Alpha chain", 
+            "sequence": "VEQNSGPLSVPEGAIASLNCTYSDRGSQSFFWYRQYSGKSPELIMFIYSNGDKEDGRFTAQLNKASQYVSLLIRDSQPSDSATYLCAVNNARLMFGDGTQLVVKP", 
+            "CDRs": {
+                "A1": {
+                    "PDB_start": "25", 
+                    "aln_end": 40, 
+                    "PDB_end": "41", 
+                    "aln_start": 24, 
+                    "cs": 2, 
+                    "template_cs": 2
+                }, 
+                "A3": {
+                    "PDB_start": "107", 
+                    "aln_end": 128, 
+                    "PDB_end": "129", 
+                    "aln_start": 106, 
+                    "cs": 2, 
+                    "template_cs": 1
+                }, 
+                "A2": {
+                    "PDB_start": "58", 
+                    "aln_end": 68, 
+                    "PDB_end": "69", 
+                    "aln_start": 57, 
+                    "cs": 3, 
+                    "template_cs": 3
+                }
+            }, 
+            "template_sequence": "---VEQNSGPLSVPEGAIASLNCTYSDR-------GSQSFFWYRQY-SGKSPELIMFIYS-----NGDKE-D-GRFTAQL-N-KASQYVSLLIRDSQPSDSATYLCAVTT-------------GKLQFGQGTELSVKP", 
+            "template_selection": [
+                {
+                    "aligned_sequence": "---VEQNSGPLSVPEGAIASLNCTYSDR-------GSQSFFWYRQY-SGKSPELIMFIYS-----NGDKE-D-GRFTAQL-N-KASQYVSLLIRDSQPSDSATYLCAVNFG-----------GGKLIFGQGTELSVKP", 
+                    "pdbname": "3QEU", 
+                    "blosum_score": 511, 
+                    "identity_score": 0.9158878504672897, 
+                    "cs1": 2, 
+                    "cs3": 3, 
+                    "cs2": 3
+                }, 
+                {
+                    "aligned_sequence": "---VEQNSGPLSVPEGAIASLNCTYSDR-------GSQSFFWYRQY-SGKSPELIMSIYS-----NGDKE-D-GRFTAQL-N-KASQYVSLLIRDSQPSDSATYLCAVTT-------------GKLQFGAGTQVVVTP", 
+                    "pdbname": "4GRM", 
+                    "blosum_score": 497, 
+                    "identity_score": 0.9142857142857143, 
+                    "cs1": 2, 
+                    "cs3": 1, 
+                    "cs2": 3
+                }, 
+                {
+                    "aligned_sequence": "-QEVEQNSGPLSVPEGAIASLNCTYSDR-------GSQSFFWYRQY-SGKSPELIMFIYS-----NGDKE-D-GRFTAQL-N-KASQYVSLLIRDSQPSDSATYLCAVNVA------------GKSTFGDGTTLTVKP", 
+                    "pdbname": "3HG1", 
+                    "blosum_score": 508, 
+                    "identity_score": 0.9074074074074074, 
+                    "cs1": 2, 
+                    "cs3": 2, 
+                    "cs2": 3
+                }, 
+                {
+                    "aligned_sequence": "---VEQNSGPLSVPEGAIASLNCTYSYR-------GSQSFFWYRQY-SGKSPELIMFIYS-----NGDKE-D-GRFTAQL-N-KASQYVSLLIRDSQPSDSATYLCAVNFG-----------GGKLIFGQGTELSVKP", 
+                    "pdbname": "4L3E", 
+                    "blosum_score": 502, 
+                    "identity_score": 0.9065420560747663, 
+                    "cs1": 2, 
+                    "cs3": 3, 
+                    "cs2": 3
+                }, 
+                {
+                    "aligned_sequence": "---VEQNSGPLSVPEGAIASLNCTYSDR-------GSQSFFWYRQY-SGKSPELIMSIYS-----NGDKE-D-GRFTAQL-N-KASQYVSLLIRDSQPSDSATYLCAVTTDS----------WGKLQFGAGTQVVVTP", 
+                    "pdbname": "4FTV", 
+                    "blosum_score": 497, 
+                    "identity_score": 0.8888888888888888, 
+                    "cs1": 2, 
+                    "cs3": 6, 
+                    "cs2": 3
+                }, 
+                {
+                    "aligned_sequence": "---VEQNSGPLSVPEGAIASLNCTYSDR-------GSQSFFWYRQY-SGKSPELIMSIYS-----NGDKE-D-GRFTAQL-N-KASQYVSLLIRDSQPSDSATYLCAVTTDS----------WGKLQFGAGTQVVVTP", 
+                    "pdbname": "3QH3", 
+                    "blosum_score": 497, 
+                    "identity_score": 0.8888888888888888, 
+                    "cs1": 2, 
+                    "cs3": 6, 
+                    "cs2": 3
+                }, 
+                {
+                    "aligned_sequence": "---VEQNSGPLSVPEGAIASLNCTYSDR-------GSQSFFWYRQY-SGKSPELIMSIYS-----NGDKE-D-GRFTAQL-N-KASQYVSLLIRDSQPSDSATYLCAVTTDS----------WGKLQFGAGTQVVVTP", 
+                    "pdbname": "3QFJ", 
+                    "blosum_score": 497, 
+                    "identity_score": 0.8888888888888888, 
+                    "cs1": 2, 
+                    "cs3": 6, 
+                    "cs2": 3
+                }, 
+                {
+                    "aligned_sequence": "---VEQNSGPLSVPEGAIASLNCTYSDR-------GSQSFFWYRQY-SGKSPELIMSIYS-----NGDKE-D-GRFTAQL-N-KASQYVSLLIRDSQPSDSATYLCAVTTDS----------WGKLQFGAGTQVVVTP", 
+                    "pdbname": "2GJ6", 
+                    "blosum_score": 497, 
+                    "identity_score": 0.8888888888888888, 
+                    "cs1": 2, 
+                    "cs3": 6, 
+                    "cs2": 3
+                }, 
+                {
+                    "aligned_sequence": "---VEQNSGPLSVPEGAIASLNCTYSDR-------GSQSFFWYRQY-SGKSPELIMSIYS-----NGDKE-D-GRFTAQL-N-KASQYVSLLIRDSQPSDSATYLCAVTTDS----------WGKLQFGAGTQVVVTP", 
+                    "pdbname": "1QSF", 
+                    "blosum_score": 497, 
+                    "identity_score": 0.8888888888888888, 
+                    "cs1": 2, 
+                    "cs3": 6, 
+                    "cs2": 3
+                }, 
+                {
+                    "aligned_sequence": "---VEQNSGPLSVPEGAIASLNCTYSDR-------GSQSFFWYRQY-SGKSPELIMSIYS-----NGDKE-D-GRFTAQL-N-KASQYVSLLIRDSQPSDSATYLCAVTTDS----------WGKLQFGAGTQVVVTP", 
+                    "pdbname": "1QRN", 
+                    "blosum_score": 497, 
+                    "identity_score": 0.8888888888888888, 
+                    "cs1": 2, 
+                    "cs3": 6, 
+                    "cs2": 3
+                }, 
+                {
+                    "aligned_sequence": "---VEQNSGPLSVPEGAIASLNCTYSFL-------GSQSFFWYRQY-SGKSPELIMFTYR-----EGDKE-D-GRFTAQL-N-KASQHVSLLIRDSQPSDSATYLCAVNDG------------GRLTFGDGTTLTVKP", 
+                    "pdbname": "4JFH", 
+                    "blosum_score": 484, 
+                    "identity_score": 0.8867924528301887, 
+                    "cs1": 2, 
+                    "cs3": 2, 
+                    "cs2": 3
+                }, 
+                {
+                    "aligned_sequence": "---VEQNSGPLSVPEGAIASLNCTYSDR-------GSQSFFWYRQY-SGKSPELIMSIYS-----NGDKE-D-GRFTAQL-N-KASQYVSLLIRDAQPSDSATYLCAVSGGG----------ADGLTFGKGTQVVVTP", 
+                    "pdbname": "4EUP", 
+                    "blosum_score": 489, 
+                    "identity_score": 0.8796296296296297, 
+                    "cs1": 2, 
+                    "cs3": 5, 
+                    "cs2": 3
+                }, 
+                {
+                    "aligned_sequence": "---VEQNSGPLSVPEGAIASLNCTYSDR-------GSQSFFWYRQY-SGKSPELIMSIYS-----NGDKE-D-GRFTAQL-N-KASQYVSLLIRDSQPSDSATYLWGTYNQ-----------GGKLIFGQGTELSVKP", 
+                    "pdbname": "3VXT", 
+                    "blosum_score": 485, 
+                    "identity_score": 0.8785046728971962, 
+                    "cs1": 2, 
+                    "cs3": 3, 
+                    "cs2": 3
+                }, 
+                {
+                    "aligned_sequence": "-QEVEQNSGPLSVPEGAIASLNCTYSFL-------GSQSFFWYRQY-SGKSPELIMFTYR-----EGDKE-D-GRFTAQL-N-KASQHVSLLIRDSQPSDSATYLCAVNDG------------GRLTFGDGTTLTVKP", 
+                    "pdbname": "4JFF", 
+                    "blosum_score": 484, 
+                    "identity_score": 0.8703703703703703, 
+                    "cs1": 2, 
+                    "cs3": 2, 
+                    "cs2": 3
+                }, 
+                {
+                    "aligned_sequence": "---VEQDPGPLSVPEGAIVSLNCTYSNS-------AFQYFMWYRQY-SRKGPELLMYTYS-----SGNKE-D-GRFTAQV-D-KSSKYISLFIRDSQPSDSATYLCAMRGDS----------SYKLIFGSGTRLLVRP", 
+                    "pdbname": "3UTP", 
+                    "blosum_score": 401, 
+                    "identity_score": 0.6759259259259259, 
+                    "cs1": 2, 
+                    "cs3": 5, 
+                    "cs2": 3
+                }, 
+                {
+                    "aligned_sequence": "---VEQDPGPFNVPEGATVAFNCTYSNS-------ASQSFFWYRQD-SRKEPKLLMSVY------SSGNE-D-GRFTAQL-N-RASQYISLLIRDSKLSDSATYLCVVRA-------------GKLIFGQGTELSVKP", 
+                    "pdbname": "3SKN", 
+                    "blosum_score": 370, 
+                    "identity_score": 0.6571428571428571, 
+                    "cs1": 2, 
+                    "cs3": 1, 
+                    "cs2": 2
+                }, 
+                {
+                    "aligned_sequence": "-QKVQQSPESLSVPEGGMASLNCTSSDR-------NFQYFWWYRQH-SGEGPKALMSIFS-----DGDKK-E-GRFTAHL-N-KASLHVSLHIRDSQPSDSALYFCAASEQN----------AQGLTFGLGTRVSVFP", 
+                    "pdbname": "4ELK", 
+                    "blosum_score": 331, 
+                    "identity_score": 0.5909090909090909, 
+                    "cs1": 2, 
+                    "cs3": 5, 
+                    "cs2": 3
+                }, 
+                {
+                    "aligned_sequence": "----------LSVREGDSSVINCTYTDS-------SSTYLYWYKQE-PGAGLQLLTYIFS----NMDMKQ-D-QRKTVLL-N-KKDKHLSLRIADTQTGDSAIYFCAEDNN------------ARLMFGDGTQLVVKP", 
+                    "pdbname": "3O4L", 
+                    "blosum_score": 262, 
+                    "identity_score": 0.48598130841121495, 
+                    "cs1": 2, 
+                    "cs3": 2, 
+                    "cs2": 4
+                }, 
+                {
+                    "aligned_sequence": "--QVRQSPQSLTVWEGETAILNCSYENS-------AFDAFPWYQQF-PGEGPALLIAIRS----VSDKKE-D-GRFTIFF-N-KREKKLSLHITDSQPGDSATYFCAASKG-----------ADRLTFGKGTQLIIQP", 
+                    "pdbname": "4P46", 
+                    "blosum_score": 264, 
+                    "identity_score": 0.47706422018348627, 
+                    "cs1": 2, 
+                    "cs3": 4, 
+                    "cs2": 4
+                }, 
+                {
+                    "aligned_sequence": "--QVRQSPQSLTVWEGETAILNCSYENS-------AFDYFPWYQQF-PGEGPALLIAIRS----VSDKKE-D-GRFTIFF-N-KREKKLSLHITDSQPGDSATYFCAASKG-----------ADRLTFGKGTQLIIQP", 
+                    "pdbname": "4P23", 
+                    "blosum_score": 261, 
+                    "identity_score": 0.47706422018348627, 
+                    "cs1": 2, 
+                    "cs3": 4, 
+                    "cs2": 4
+                }, 
+                {
+                    "aligned_sequence": "--QVRQSPQSLTVWEGETAILNCSYENS-------AFDYFPWYQQF-PGEGPALLIAIRS----VSDKKE-D-GRFTIFF-N-KREKKLSLHITDSQPGDSATYFCAASKG-----------ADRLTFGKGTQLIIQP", 
+                    "pdbname": "3RDT", 
+                    "blosum_score": 261, 
+                    "identity_score": 0.47706422018348627, 
+                    "cs1": 2, 
+                    "cs3": 4, 
+                    "cs2": 4
+                }, 
+                {
+                    "aligned_sequence": "---VEQHPSTLSVQEGDSAVIKCTYSDS-------ASNYFPWYKQE-LGKRPQLIIDIRS----NVGEKK-D-QRIAVTL-N-KTAKHFSLHITETQPEDSAVYFCAASSFG----------NEKLTFGTGTRLTIIP", 
+                    "pdbname": "4MAY", 
+                    "blosum_score": 255, 
+                    "identity_score": 0.46788990825688076, 
+                    "cs1": 2, 
+                    "cs3": 5, 
+                    "cs2": 4
+                }, 
+                {
+                    "aligned_sequence": "---VEQHPSTLSVQEGDSAVIKCTYSDS-------ASNYFPWYKQE-LGKRPQLIIDIRS----NVGEKK-D-QRIAVTL-N-KTAKHFSLHITETQPEDSAVYFCAASSFG----------NEKLTFGTGTRLTIIP", 
+                    "pdbname": "3PL6", 
+                    "blosum_score": 255, 
+                    "identity_score": 0.46788990825688076, 
+                    "cs1": 2, 
+                    "cs3": 5, 
+                    "cs2": 4
+                }, 
+                {
+                    "aligned_sequence": "-QQVRQSPQSLTVWEGETAILNCSYEDS-------TFNYFPWYQQF-PGEGPALLISIRS----VSDKKE-D-GRFTIFF-N-KREKKLSLHITDSQPGDSATYFCAARYQG----------GRALIFGTGTTVSVSP", 
+                    "pdbname": "1KB5", 
+                    "blosum_score": 244, 
+                    "identity_score": 0.4594594594594595, 
+                    "cs1": 2, 
+                    "cs3": 5, 
+                    "cs2": 4
+                }, 
+                {
+                    "aligned_sequence": "--QVRQSPQSLTVWEGETTILNCSYENS-------AFDYFPWYQQF-PGEGPALLIAIRS----VSDKKE-D-GRFTIFF-N-KREKKLSLHITDSQPGDSATYFCAATGAN----------TGKLTFGHGTILRVHP", 
+                    "pdbname": "3MFF", 
+                    "blosum_score": 240, 
+                    "identity_score": 0.45454545454545453, 
+                    "cs1": 2, 
+                    "cs3": 5, 
+                    "cs2": 4
+                }, 
+                {
+                    "aligned_sequence": "--QVRQSPQSLTVWEGETAILNCSYENS-------AFDYFPWYQQF-PGEGPALLISILS----VSDKKE-D-GRFTIFF-N-KREKKLSLHIADSQPGDSATYFCAASANS----------GTYQRFGTGTKLQVVP", 
+                    "pdbname": "1U3H", 
+                    "blosum_score": 238, 
+                    "identity_score": 0.45454545454545453, 
+                    "cs1": 2, 
+                    "cs3": 5, 
+                    "cs2": 4
+                }, 
+                {
+                    "aligned_sequence": "MQQVRQSPQSLTVWEGETAILNCSYENS-------AFDYFPWYQQF-PGEGPALLISILS----VSNKKE-D-GRFTIFF-N-KREKKLSLHIADSQPGDSATYFCAASASFG--------DNSKLIWGLGTSLVVNP", 
+                    "pdbname": "1B88", 
+                    "blosum_score": 251, 
+                    "identity_score": 0.4473684210526316, 
+                    "cs1": 2, 
+                    "cs3": 8, 
+                    "cs2": 4
+                }, 
+                {
+                    "aligned_sequence": "--QVTQSPEALRLQEGESSSLNCSYTVS-------GLRGLFWYRQD-PGKGPEFLFTLYS----AGEEKE-K-ERLKATL-T-K--KESFLHITAPKPEDSATYLCAVQDLGT--------SGSRLTFGEGTQLTVNP", 
+                    "pdbname": "3MV9", 
+                    "blosum_score": 245, 
+                    "identity_score": 0.44642857142857145, 
+                    "cs1": 5, 
+                    "cs3": 9, 
+                    "cs2": 5
+                }, 
+                {
+                    "aligned_sequence": "--QVTQSPEALRLQEGESSSLNCSYTVS-------GLRGLFWYRQD-PGKGPEFLFTLYS----AGEEKE-K-ERLKATL-T-K--KESFLHITAPKPEDSATYLCAVQDLGT--------SGSRLTFGEGTQLTVNP", 
+                    "pdbname": "3MV8", 
+                    "blosum_score": 245, 
+                    "identity_score": 0.44642857142857145, 
+                    "cs1": 5, 
+                    "cs3": 9, 
+                    "cs2": 5
+                }, 
+                {
+                    "aligned_sequence": "--QVTQSPEALRLQEGESSSLNCSYTVS-------GLRGLFWYRQD-PGKGPEFLFTLYS----AGEEKE-K-ERLKATL-T-K--KESFLHITAPKPEDSATYLCAVQDLGT--------SGSRLTFGEGTQLTVNP", 
+                    "pdbname": "3MV7", 
+                    "blosum_score": 245, 
+                    "identity_score": 0.44642857142857145, 
+                    "cs1": 5, 
+                    "cs3": 9, 
+                    "cs2": 5
+                }, 
+                {
+                    "aligned_sequence": "-QQVKQNSPSLSVQEGRISILNCDYTNS-------MFDYFLWYKKY-PAEGPTFLISISS----IKDKNA-D-GRFTVFL-N-KSAKHLSLHIVPSQPGDSAVYFCAAMEG-----------AQKLVFGQGTRLTINP", 
+                    "pdbname": "1BD2", 
+                    "blosum_score": 247, 
+                    "identity_score": 0.43636363636363634, 
+                    "cs1": 2, 
+                    "cs3": 4, 
+                    "cs2": 4
+                }, 
+                {
+                    "aligned_sequence": "-QEVTQIPAALSVPEGENLVLNCSFTDS-------AIYNLQWFRQD-PGKGLTSLLLIQS----SQREQT-S-GRLNASL-D-KSSGRSTLYIAASQPGDSATYLCAVRMDS----------SYKLIFGSGTRLLVRP", 
+                    "pdbname": "3VXS", 
+                    "blosum_score": 223, 
+                    "identity_score": 0.42342342342342343, 
+                    "cs1": 2, 
+                    "cs3": 5, 
+                    "cs2": 4
+                }, 
+                {
+                    "aligned_sequence": "----------LSVREGDSSVINCTYTDS-------SSTYLYWYKQE-PGAGLQLLTYIFS----NMDMKQ-D-QRLTVLL-N-KKDKHLSLRIADTQTGDSAIYFCAVSGG-----------YQKVTFGIGTKLQVIP", 
+                    "pdbname": "2YPL", 
+                    "blosum_score": 221, 
+                    "identity_score": 0.4074074074074074, 
+                    "cs1": 2, 
+                    "cs3": 3, 
+                    "cs2": 4
+                }, 
+                {
+                    "aligned_sequence": "-QEVTQIPAALSVPEGENLVLNCSFTDS-------AIYNLQWFRQD-PGKGLTSLLLIQS----SQREQT-S-GRLNASL-D-KSSGSSTLYIAASQPGDSATYLCAVRPLLD--------GTYIPTFGRGTSLIVHP", 
+                    "pdbname": "2PYF", 
+                    "blosum_score": 205, 
+                    "identity_score": 0.40707964601769914, 
+                    "cs1": 2, 
+                    "cs3": 10, 
+                    "cs2": 4
+                }, 
+                {
+                    "aligned_sequence": "-QEVTQIPAALSVPEGENLVLNCSFTDS-------AIYNLQWFRQD-PGKGLTSLLLIQS----SQREQT-S-GRLNASL-D-KSSGRSTLYIAASQPGDSATYLCAVRPTSG--------GSYIPTFGRGTSLIVHP", 
+                    "pdbname": "2BNU", 
+                    "blosum_score": 205, 
+                    "identity_score": 0.40707964601769914, 
+                    "cs1": 2, 
+                    "cs3": 10, 
+                    "cs2": 4
+                }, 
+                {
+                    "aligned_sequence": "-QEVTQIPAALSVPEGENLVLNCSFTDS-------AIYNLQWFRQD-PGKGLTSLLLIQS----SQREQT-S-GRLNASL-D-KSSGRSTLYIAASQPGDSATYLCAVRPTSG--------GSYIPTFGRGTSLIVHP", 
+                    "pdbname": "2BNQ", 
+                    "blosum_score": 205, 
+                    "identity_score": 0.40707964601769914, 
+                    "cs1": 2, 
+                    "cs3": 10, 
+                    "cs2": 4
+                }, 
+                {
+                    "aligned_sequence": "---VEQSPQSLHVQEGDSTNFTCSFPSS-------NFYALHWYRWE-TAKSPEALFVMTL----NGDEKK-K-GRISATL-N-TKEGYSYLYIKGSQPEDSATYLCARNTG------------NQFYFGTGTSLTVIP", 
+                    "pdbname": "3GSN", 
+                    "blosum_score": 203, 
+                    "identity_score": 0.40186915887850466, 
+                    "cs1": 2, 
+                    "cs3": 2, 
+                    "cs2": 5
+                }, 
+                {
+                    "aligned_sequence": "-QQVTQIPAALSVPEGENLVLNCSFTDS-------AIYNLQWFRQD-PGKGLTSLLLITP----WQREQT-S-GRLNASL-D-KSSGSSTLYIAASQPGDSATYLCAVRPLLD--------GTYIPTFGRGTSLIVHP", 
+                    "pdbname": "2P5W", 
+                    "blosum_score": 199, 
+                    "identity_score": 0.39823008849557523, 
+                    "cs1": 2, 
+                    "cs3": 10, 
+                    "cs2": 4
+                }, 
+                {
+                    "aligned_sequence": "-QEVTQIPAALSVPEGENLVLNCSFTDS-------AIYNLQWFRQD-PGKGLTSLLLITP----WQREQT-S-GRLNASL-D-KSSGSSTLYIAASQPGDSATYLCAVRPLLD--------GTYIPTFGRGTSLIVHP", 
+                    "pdbname": "2P5E", 
+                    "blosum_score": 199, 
+                    "identity_score": 0.39823008849557523, 
+                    "cs1": 2, 
+                    "cs3": 10, 
+                    "cs2": 4
+                }, 
+                {
+                    "aligned_sequence": "-QEVTQIPAALSVPEGENLVLNCSFTDS-------AIYNLQWFRQD-PGKGLTSLLLIPF----WQREQT-S-GRLNASL-D-KSSGRSTLYIAASQPGDSATYLCAVRPTSG--------GSYIPTFGRGTSLIVHP", 
+                    "pdbname": "2F53", 
+                    "blosum_score": 197, 
+                    "identity_score": 0.39823008849557523, 
+                    "cs1": 2, 
+                    "cs3": 10, 
+                    "cs2": 4
+                }, 
+                {
+                    "aligned_sequence": "-QQVTQIPAALSVPEGENLVLNCSFTDS-------AIYNLQWFRQD-PGGKLTSLLLIQS----SQREQT-S-GRLNASL-D-KSAGSSTLYIAASQPGDSATYLCAVRPTSG--------GSYIPTFGRGTSLIVHP", 
+                    "pdbname": "2F54", 
+                    "blosum_score": 195, 
+                    "identity_score": 0.3893805309734513, 
+                    "cs1": 2, 
+                    "cs3": 10, 
+                    "cs2": 4
+                }, 
+                {
+                    "aligned_sequence": "------QPTEMTATEGAIVQINCTYQTS-------GFNGLFWYQQH-AGEAPTFLSYNVL-----DGLEE-K-GRFSSFL-S-RSKGYSYLLLKELQMKDSASYLCAVRNG------------FKTIFGAGTRLFVK-", 
+                    "pdbname": "4G8F", 
+                    "blosum_score": 224, 
+                    "identity_score": 0.3867924528301887, 
+                    "cs1": 5, 
+                    "cs3": 2, 
+                    "cs2": 3
+                }, 
+                {
+                    "aligned_sequence": "--KVEQNPLFLSMQEGKNYTIYCNYSTT--------SDRLYWYRQD-PGKSLESLFVLLS----NGAVKQ-E-GRLMASL-D-TKARLSTLHITAAVHDLSATYFCAVGGGS----------NYQLIWGAGTKLIIKP", 
+                    "pdbname": "4JRY", 
+                    "blosum_score": 192, 
+                    "identity_score": 0.38181818181818183, 
+                    "cs1": 1, 
+                    "cs3": 5, 
+                    "cs2": 5
+                }, 
+                {
+                    "aligned_sequence": "--QNIDQPTEMTATEGAIVQINCTYQTS-------GFNGLFWYQQH-AGEAPTFLSYNVL-----DGLEE-K-GRFSSFL-S-RSKGYSYLLLKELQMKDSASYLCAVLNTG----------GFKTIFGAGTRLFVK-", 
+                    "pdbname": "4G8E", 
+                    "blosum_score": 215, 
+                    "identity_score": 0.3761467889908257, 
+                    "cs1": 5, 
+                    "cs3": 5, 
+                    "cs2": 3
+                }, 
+                {
+                    "aligned_sequence": "---VEQNPPALSLYEGADSGLRCNFSTT--------MKSVQWFQQN-HRGRLITLFYLA------QGTKE-N-GRLKSTF-N-SKERYSTLHIKDAQLEDSGTYFCAAEDGG---------SGNKLIFGTGTLLSVKP", 
+                    "pdbname": "3MBE", 
+                    "blosum_score": 196, 
+                    "identity_score": 0.3761467889908257, 
+                    "cs1": 1, 
+                    "cs3": 7, 
+                    "cs2": 1
+                }, 
+                {
+                    "aligned_sequence": "--QVEQSPQSLIILEGKNCTLQCNYTVS-------PFSNLRWYKQD-TGRGPVSLTIMTF----SENTKS-N-GRYTATL-D-ADTKQSSLHITASQLSDSASYICVVSDRGS--------TLGRLYFGRGTQLTVWP", 
+                    "pdbname": "3TYF", 
+                    "blosum_score": 193, 
+                    "identity_score": 0.375, 
+                    "cs1": 4, 
+                    "cs3": 8, 
+                    "cs2": 4
+                }, 
+                {
+                    "aligned_sequence": "--QVEQSPQSLIILEGKNCTLQCNYTVS-------PFSNLRWYKQD-TGRGPVSLTIMTF----SENTKS-N-GRYTATL-D-ADTKQSSLHITASQLSDSASYICVVSDRGS--------TLGRLYFGRGTQLTVWP", 
+                    "pdbname": "3HUJ", 
+                    "blosum_score": 193, 
+                    "identity_score": 0.375, 
+                    "cs1": 4, 
+                    "cs3": 8, 
+                    "cs2": 4
+                }, 
+                {
+                    "aligned_sequence": "--QVEQSPQFLSIQEGENLTVYCNSSSV--------FSSLQWYRQE-PGEGPVLLVTVVT----GGEVKK-L-KRLTFQF-G-DARKDSSLHITAAQPGDTGLYLCAGADRGS--------TLGRLYFGRGTQLTVWP", 
+                    "pdbname": "2CDF", 
+                    "blosum_score": 173, 
+                    "identity_score": 0.375, 
+                    "cs1": 1, 
+                    "cs3": 9, 
+                    "cs2": 5
+                }, 
+                {
+                    "aligned_sequence": "--QNIDQPTEMTATEGAIVQINCTYQTS-------GFNGLFWYQQH-AGEAPTFLSYNVL-----DGLEE-K-GRFSSFL-S-RSKGYSYLLLKELQMKDSASYLCAVKDS-----------NYQLIWGAGTKLIIKP", 
+                    "pdbname": "4L4V", 
+                    "blosum_score": 222, 
+                    "identity_score": 0.37037037037037035, 
+                    "cs1": 5, 
+                    "cs3": 3, 
+                    "cs2": 3
+                }, 
+                {
+                    "aligned_sequence": "--QNIDQPTEMTATEGAIVQINCTYQTS-------GFNGLFWYQQH-AGEAPTFLSYNVL-----DGLEE-K-GRFSSFL-S-RSKGYSYLLLKELQMKDSASYLCAVKDS-----------NYQLIWGAGTKLIIKP", 
+                    "pdbname": "4IIQ", 
+                    "blosum_score": 222, 
+                    "identity_score": 0.37037037037037035, 
+                    "cs1": 5, 
+                    "cs3": 3, 
+                    "cs2": 3
+                }
+            ], 
+            "type": "A"
+        }, 
+        {
+            "templates": {
+                "framework": "3Q5Y", 
+                "packing": "4JFH", 
+                "B1": "3Q5Y", 
+                "B2": "3Q5Y", 
+                "B3": "3MBE"
+            }, 
+            "aligned_sequence": "--VIQSPRHLIKEKRETATLKCYPIP------RHDTVYWYQQGPGQDPQFLISFYEKMQSD-------KGSIPDRFSAQQFSDYHSELNMSSLELGDSALYFCASSLRV-------------SGNTIYFGEGSWLTVV", 
+            "name": "Beta chain", 
+            "sequence": "VIQSPRHLIKEKRETATLKCYPIPRHDTVYWYQQGPGQDPQFLISFYEKMQSDKGSIPDRFSAQQFSDYHSELNMSSLELGDSALYFCASSLRVSGNTIYFGEGSWLTVV", 
+            "CDRs": {
+                "B1": {
+                    "PDB_start": "23", 
+                    "aln_end": 37, 
+                    "PDB_end": "38", 
+                    "aln_start": 22, 
+                    "cs": 2, 
+                    "template_cs": 2
+                }, 
+                "B2": {
+                    "PDB_start": "53", 
+                    "aln_end": 77, 
+                    "PDB_end": "78", 
+                    "aln_start": 52, 
+                    "cs": 3, 
+                    "template_cs": 3
+                }, 
+                "B3": {
+                    "PDB_start": "104", 
+                    "aln_end": 128, 
+                    "PDB_end": "129", 
+                    "aln_start": 103, 
+                    "cs": 0, 
+                    "template_cs": 0
+                }
+            }, 
+            "template_sequence": "--VVQSPRHIIKEKGGRSVLTCIPIS------GHSNVVWYQQTLGKELKFLIQHYEKVERD-------KGFLPSRFSVQQFDDYHSEMNMSALELEDSAMYFCASSWDR-------------AGNTLYFGPGTRLTVL", 
+            "template_selection": [
+                {
+                    "aligned_sequence": "-GVVQSPRHIIKEKGGRSVLTCIPIS------GHSNVVWYQQTLGKELKFLIQHYEKVERD-------KGFLPSRFSVQQFDDYHSEMNMSALELEDSAMYFCASSLR--------------WGDEQYFGPGTRLTVL", 
+                    "pdbname": "3Q5Y", 
+                    "blosum_score": 354, 
+                    "identity_score": 0.6036036036036037, 
+                    "cs1": 2, 
+                    "cs3": 0, 
+                    "cs2": 3
+                }, 
+                {
+                    "aligned_sequence": "-GVVQSPRHIIKEKGGRSVLTCIPIS------GHSNVVWYQQTLGKELKFLIQHYEKVERD-------KGFLPSRFSVQQFDDYHSEMNMSALELEDSAMYFCASSLR--------------WGDEQYFGPGTRLTVL", 
+                    "pdbname": "1NFD", 
+                    "blosum_score": 354, 
+                    "identity_score": 0.6036036036036037, 
+                    "cs1": 2, 
+                    "cs3": 0, 
+                    "cs2": 3
+                }, 
+                {
+                    "aligned_sequence": "-GVTQTPKHLITATGQRVTLRCSPRS------GDLSVYWYQQSLDQGLQFLIAYYNGEERA-------KGNILERFSAQQFPDLHSELNLSSLELGDSALYFCASSAR---------------SGELFFGEGSRLTVL", 
+                    "pdbname": "3MV9", 
+                    "blosum_score": 314, 
+                    "identity_score": 0.5675675675675675, 
+                    "cs1": 2, 
+                    "cs3": 0, 
+                    "cs2": 3
+                }, 
+                {
+                    "aligned_sequence": "-GVTQTPKHLITATGQRVTLRCSPRS------GDLSVYWYQQSLDQGLQFLIQYYNGEERA-------KGNILERFSAQQFPDLHSELNLSSLELGDSALYFCASSAR---------------SGELFFGEGSRLTVL", 
+                    "pdbname": "3MV7", 
+                    "blosum_score": 313, 
+                    "identity_score": 0.5675675675675675, 
+                    "cs1": 2, 
+                    "cs3": 0, 
+                    "cs2": 3
+                }, 
+                {
+                    "aligned_sequence": "-GVTQTPKHLITATGQRVTLRCSPRS------GDLSVYWYQQSLDQGLQFLIHYYNGEERA-------KGNILERFSAQQFPDLHSELNLSSLELGDSALYFCASSAR---------------SGELFFGEGSRLTVL", 
+                    "pdbname": "3MV8", 
+                    "blosum_score": 312, 
+                    "identity_score": 0.5675675675675675, 
+                    "cs1": 2, 
+                    "cs3": 0, 
+                    "cs2": 3
+                }, 
+                {
+                    "aligned_sequence": "-GVTQTPRYLIKTRGQQVTLSCSPIS------GHRSVSWYQQTPGQGLQFLFEYFSETQRN-------KGNFPGRFSGRQFSNSRSEMNVSTLELGDSALYLCASSLAQ-------------GGETQYFGPGTRLLVL", 
+                    "pdbname": "4P4K", 
+                    "blosum_score": 310, 
+                    "identity_score": 0.5405405405405406, 
+                    "cs1": 2, 
+                    "cs3": 0, 
+                    "cs2": 3
+                }, 
+                {
+                    "aligned_sequence": "AGVTQSPTHLIKTRGQQVTLRCSPKS------GHDTVSWYQQALGQGPQFIFQYYEEEERQ-------RGNFPDRFSGHQFPNYSSELNVNALLLGDSALYLCASSRTG-------------STYEQYFGPGTRLTV-", 
+                    "pdbname": "4JRY", 
+                    "blosum_score": 307, 
+                    "identity_score": 0.5357142857142857, 
+                    "cs1": 2, 
+                    "cs3": 0, 
+                    "cs2": 3
+                }, 
+                {
+                    "aligned_sequence": "-GVTQTPRYLIKTRGQQVTLSCSPIS------GHRSVSWYQQTPGQGLQFLFEYFNETQRN-------KGNFPGRFSGRQFSNSRSEMNVSTLELGDSALYLCASSLAD------------RVNTEAFFGQGTRLTVV", 
+                    "pdbname": "1ZGL", 
+                    "blosum_score": 305, 
+                    "identity_score": 0.5267857142857143, 
+                    "cs1": 2, 
+                    "cs3": 0, 
+                    "cs2": 3
+                }, 
+                {
+                    "aligned_sequence": "-GVTQSPTHLIKTRGQQATLRCSPIS------GHTSVYWYQQALGL--QFLLWYDEGEERN-------RGNFPPRFSGRQFPNYSSELNVNALELEDSALYLCASSQI---------------RETQYFGPGTRLLVL", 
+                    "pdbname": "4E41", 
+                    "blosum_score": 286, 
+                    "identity_score": 0.5135135135135135, 
+                    "cs1": 2, 
+                    "cs3": 0, 
+                    "cs2": 3
+                }, 
+                {
+                    "aligned_sequence": "AGVSQTPSNKVTEKGKYVELRCDPIS------GHTALYWYRQSLGQGPEFLIYFQGTGAAD------DSGLPNDRFFAVRPEGSVSTLKIQRTERGDSAVYLCASSLT--------------GGGELFFGEGSRLTVL", 
+                    "pdbname": "4MJI", 
+                    "blosum_score": 229, 
+                    "identity_score": 0.4336283185840708, 
+                    "cs1": 2, 
+                    "cs3": 0, 
+                    "cs2": 4
+                }, 
+                {
+                    "aligned_sequence": "-GVSQSPSNKVTEKGKDVELRCDPIS------GHTALYWYRQSLGQGLEFLIYFQGNSAPD------KSGLPSDRFSAERTGGSVSTLTIQRTQQEDSAVYLCASSVR--------------STDTQYFGPGTRLTVL", 
+                    "pdbname": "4OZH", 
+                    "blosum_score": 222, 
+                    "identity_score": 0.42857142857142855, 
+                    "cs1": 2, 
+                    "cs3": 0, 
+                    "cs2": 4
+                }, 
+                {
+                    "aligned_sequence": "MGVAQSPRYKIIEKRQSVAFWCNPIS------GHATLYWYQQILGQGPKLLIQFQNNGVVD------DSQLPKDRFSAERLKGVDSTLKIQPAKLEDSAVYLCASSFTWTS---------GGATDTQYFGPGTRLTVL", 
+                    "pdbname": "3FFC", 
+                    "blosum_score": 228, 
+                    "identity_score": 0.42735042735042733, 
+                    "cs1": 2, 
+                    "cs3": 0, 
+                    "cs2": 4
+                }, 
+                {
+                    "aligned_sequence": "-GVSQNPRHKITKRGQNVTFRCDPIS------EHNRLYWYRQTLGQGPEFLTYFQNEAQLE------KSRLLSDRFSAERPKGSFSTLEIQRTEQGDSAMYLCASSSW--------------DTGELFFGEGSRLTVL", 
+                    "pdbname": "3VXS", 
+                    "blosum_score": 237, 
+                    "identity_score": 0.41964285714285715, 
+                    "cs1": 2, 
+                    "cs3": 0, 
+                    "cs2": 5
+                }, 
+                {
+                    "aligned_sequence": "-GVSQSPSNKVTEKGKDVELRCDPIS------GHTALYWYRQSLGQGLEFLIYFQGNSAPD------KSGLPSDRFSAERTGGSVSTLTIQRTQQEDSAVYLCASSFR--------------FTDTQYFGPGTRLTVL", 
+                    "pdbname": "4OZG", 
+                    "blosum_score": 215, 
+                    "identity_score": 0.41964285714285715, 
+                    "cs1": 2, 
+                    "cs3": 0, 
+                    "cs2": 4
+                }, 
+                {
+                    "aligned_sequence": "AGVIQSPRHEVTEMGQQVTLRCKPIS------GHDYLFWYRQTMMRGLELLIYFNNNVPID------DSGMPEDRFSAKMPNASFSTLKIQPSEPRDSAVYFCASSLWEK-----------LAKNIQYFGAGTRLSVL", 
+                    "pdbname": "3UTP", 
+                    "blosum_score": 216, 
+                    "identity_score": 0.41739130434782606, 
+                    "cs1": 2, 
+                    "cs3": 0, 
+                    "cs2": 4
+                }, 
+                {
+                    "aligned_sequence": "-GVSQNPRHKITKRGQNVTFRCDPIS------EHNRLYWYRQTLGQGPEFLTYFQNEAQLE------KSRLLSDRFSAERPKGSFSTLEIQRTEQGDSAMYLCASRYRD------------DSYNEQFFGPGTRLTVL", 
+                    "pdbname": "3DX9", 
+                    "blosum_score": 233, 
+                    "identity_score": 0.415929203539823, 
+                    "cs1": 2, 
+                    "cs3": 0, 
+                    "cs2": 5
+                }, 
+                {
+                    "aligned_sequence": "-GVSQSPSNKVTEKGKDVELRCDPIS------GHTALYWYRQSLGQGLEFLIYFQGNSAPD------KSGLPSDRFSAERTGGSVSTLTIQRTQQEDSAVYLCASSFRA------------LAADTQYFGPGTRLTVL", 
+                    "pdbname": "4OZF", 
+                    "blosum_score": 220, 
+                    "identity_score": 0.415929203539823, 
+                    "cs1": 2, 
+                    "cs3": 0, 
+                    "cs2": 4
+                }, 
+                {
+                    "aligned_sequence": "AGVSQTPSNKVTEKGKYVELRCDPIS------GHTALYWYRQSLGQGPEFLIYFQGTGAAD------DSGLPNDRFFAVRPEGSVSTLKIQRTERGDSAVYLCATSAL---------------GDTQYFGPGTRLTVL", 
+                    "pdbname": "4MAY", 
+                    "blosum_score": 217, 
+                    "identity_score": 0.415929203539823, 
+                    "cs1": 2, 
+                    "cs3": 0, 
+                    "cs2": 4
+                }, 
+                {
+                    "aligned_sequence": "AGVSQTPSNKVTEKGKYVELRCDPIS------GHTALYWYRQSLGQGPEFLIYFQGTGAAD------DSGLPNDRFFAVRPEGSVSTLKIQRTERGDSAVYLCATSAL---------------GDTQYFGPGTRLTVL", 
+                    "pdbname": "3PL6", 
+                    "blosum_score": 217, 
+                    "identity_score": 0.415929203539823, 
+                    "cs1": 2, 
+                    "cs3": 0, 
+                    "cs2": 4
+                }, 
+                {
+                    "aligned_sequence": "--VIQTPRYLVKGQGQKAKMRCIPEK------GHPVVFWYQQNKNNEFKFLINFQNQEVLQ------QIDMTEKRFSAECPSNSPCSLEIQSSEAGDSALYLCASSLS---------------QDTQYFGPGTRLLVL", 
+                    "pdbname": "3QJF", 
+                    "blosum_score": 212, 
+                    "identity_score": 0.4144144144144144, 
+                    "cs1": 2, 
+                    "cs3": 0, 
+                    "cs2": 5
+                }, 
+                {
+                    "aligned_sequence": "-GVTQFPSHSVIEKGQTVTLRCDPIS------GHDNLYWYRRVMGKEIKFLLHFVKESKQD------ESGMPNNRFLAERTGGTYSTLKVQPAELEDSGVYFCASSQD---------------RDTQYFGPGTRLTVL", 
+                    "pdbname": "2ESV", 
+                    "blosum_score": 231, 
+                    "identity_score": 0.4107142857142857, 
+                    "cs1": 2, 
+                    "cs3": 0, 
+                    "cs2": 4
+                }, 
+                {
+                    "aligned_sequence": "AGVTQSPRYAVLQEGQSVSFWCDPIS------GHDTLYWYQQPRDQGPQLLVYFRDEAVID------NSQLPSDRFSAVRPKGTNSTLKIQSAKQGDTATYLCASSSG--------------VGTEVFFGKGTRLTVV", 
+                    "pdbname": "3Q5T", 
+                    "blosum_score": 224, 
+                    "identity_score": 0.40707964601769914, 
+                    "cs1": 2, 
+                    "cs3": 0, 
+                    "cs2": 4
+                }, 
+                {
+                    "aligned_sequence": "-GVSQSPRYKVAKRGQDVALRCDPIS------GHVSLFWYQQALGQGPEFLTYFQNEAQLD------KSGLPSDRFFAERPEGSVSTLKIQRTQQEDSAVYLCASSLG--------------QAYEQYFGPGTRLTV-", 
+                    "pdbname": "1MI5", 
+                    "blosum_score": 212, 
+                    "identity_score": 0.4017857142857143, 
+                    "cs1": 2, 
+                    "cs3": 0, 
+                    "cs2": 4
+                }, 
+                {
+                    "aligned_sequence": "-GVSQSPRYKVAKRGQDVALRCDPIS------GHVSLFWYQQALGQGPEFLTYFQNEAQLD------KSGLPSDRFFAERPEGSVSTLKIQRTQQEDSAVYLCASSLG--------------QAYEQYFGPGTRLTV-", 
+                    "pdbname": "1KGC", 
+                    "blosum_score": 212, 
+                    "identity_score": 0.4017857142857143, 
+                    "cs1": 2, 
+                    "cs3": 0, 
+                    "cs2": 4
+                }, 
+                {
+                    "aligned_sequence": "--VTQSPRSKVAVTGGKVTLSCHQTN------NHDYMYWYRQDTGHGLRLIHYSYVADSTE-------KGDIPDGYKASRPSQENFSLILELASLSQTAVYFCASSWDR-------------AGNTLYFGEGSRLIVV", 
+                    "pdbname": "3MBE", 
+                    "blosum_score": 205, 
+                    "identity_score": 0.4, 
+                    "cs1": 1, 
+                    "cs3": 0, 
+                    "cs2": 2
+                }, 
+                {
+                    "aligned_sequence": "--VTQSPRSKVAVTGGKVTLSCHQTN------NHDYMYWYRQDTGHGLRLIHYSYVADSTE-------KGDIPDGYKASRPSQENFSLILELASLSQTAVYFCASIDS--------------SGNTLYFGEGSRLIVV", 
+                    "pdbname": "3C5Z", 
+                    "blosum_score": 204, 
+                    "identity_score": 0.4, 
+                    "cs1": 1, 
+                    "cs3": 0, 
+                    "cs2": 2
+                }, 
+                {
+                    "aligned_sequence": "--VIQTPRYLVKGQGQKAKMRCIPEK------GHPVVFWYQQNKNNEFKFLINFQNQEVLQ------QIDMTEKRFSAECPSNSPCSLEIQSSEAGDSALYLCASSLNN-------------ANSDYTFGSGTRLLV-", 
+                    "pdbname": "3QJH", 
+                    "blosum_score": 200, 
+                    "identity_score": 0.3963963963963964, 
+                    "cs1": 2, 
+                    "cs3": 0, 
+                    "cs2": 5
+                }, 
+                {
+                    "aligned_sequence": "--VIQTPRYLVKGQGQKAKMRCIPEK------GHPVVFWYQQNKNNEFKFLINFQNQEVLQ------QIDMTEKRFSAECPSNSPCSLEIQSSEAGDSALYLCASSLNN-------------ANSDYTFGSGTRLLV-", 
+                    "pdbname": "3QIU", 
+                    "blosum_score": 200, 
+                    "identity_score": 0.3963963963963964, 
+                    "cs1": 2, 
+                    "cs3": 0, 
+                    "cs2": 5
+                }, 
+                {
+                    "aligned_sequence": "--VTQSPRSKVAVTGGKVTLSCHQTN------NHDYMYWYRQDTGHGLRLIHYSYVADSTE-------KGDIPDGYKASRPSQENFSLILELASLSQTAVYFCASRLG---------------GYEQYFGPGTRLTVL", 
+                    "pdbname": "3RUG", 
+                    "blosum_score": 183, 
+                    "identity_score": 0.36363636363636365, 
+                    "cs1": 1, 
+                    "cs3": 0, 
+                    "cs2": 2
+                }, 
+                {
+                    "aligned_sequence": "--VTQMPRYLIKRMGENVLLECGQDM------SHETMYWYRQDPGLGLQLIYISYDVDSNS-------EGDIPKGYRVSRKKREHFSLILDSAKTNQTSVYFCASSLAG------------TGNYEQYFGPGTRLTV-", 
+                    "pdbname": "3MFF", 
+                    "blosum_score": 188, 
+                    "identity_score": 0.36036036036036034, 
+                    "cs1": 1, 
+                    "cs3": 0, 
+                    "cs2": 2
+                }, 
+                {
+                    "aligned_sequence": "--VTQSPRNKVAVTGEKVTLSCNQTN------NHNNMYWYRQDTGHGLRLIYYSYGAGSTE-------KGDIPDGYKASRPSQENFSLTLESATPSQTSVYFCASGDAS-------------GGNTLYFGAGTRLSVL", 
+                    "pdbname": "2Z31", 
+                    "blosum_score": 192, 
+                    "identity_score": 0.35454545454545455, 
+                    "cs1": 1, 
+                    "cs3": 0, 
+                    "cs2": 2
+                }, 
+                {
+                    "aligned_sequence": "--VTQSPRNKVAVTGEKVTLSCQQTN------NHNNMYWYRQDTGHGLRLIHYSYGVGNTE-------KGDIPDGYEASRPSHEQFSLILVSATPSQSSVYFCASGV----------------GGTLYFGAGTRLSVL", 
+                    "pdbname": "3OWE", 
+                    "blosum_score": 188, 
+                    "identity_score": 0.35454545454545455, 
+                    "cs1": 1, 
+                    "cs3": 0, 
+                    "cs2": 2
+                }, 
+                {
+                    "aligned_sequence": "--VTQMPRYLIKRMGENVLLECGQDM------SHETMYWYRQDPGLGLQLIYISYDVDSNS-------EGDIPKGYRVSRKKREHFSLILDSAKTNQTSVYFCASSST--------------GLDTQYFGPGTRLLVL", 
+                    "pdbname": "3HE7", 
+                    "blosum_score": 185, 
+                    "identity_score": 0.35454545454545455, 
+                    "cs1": 1, 
+                    "cs3": 0, 
+                    "cs2": 2
+                }, 
+                {
+                    "aligned_sequence": "--VTQSPRSKVAVTGGKVTLSCHQTN------NHDYMYWYRQDTGHGLRLIHYSYVADSTE-------KGDIPDGYKASRPSQENFSLILELASLSQTAVYFCASSDW--------------VSYEQYFGPGTRLTVL", 
+                    "pdbname": "1LP9", 
+                    "blosum_score": 171, 
+                    "identity_score": 0.35454545454545455, 
+                    "cs1": 1, 
+                    "cs3": 0, 
+                    "cs2": 2
+                }, 
+                {
+                    "aligned_sequence": "----QIPSHQIIDMGQMVTLNCDPVS------NHLYFYWYKQILGQQMEFLVNFYNGKVME------KSKLFKDQFSVERPDGSYFTLKIQPTALEDSAVYFCASSFWG-------------AYAEQFFGPGTRLTVL", 
+                    "pdbname": "4ELK", 
+                    "blosum_score": 177, 
+                    "identity_score": 0.35135135135135137, 
+                    "cs1": 2, 
+                    "cs3": 0, 
+                    "cs2": 5
+                }, 
+                {
+                    "aligned_sequence": "--VTQSPRNKVAVTGEKVTLSCNQTN------NHNNMYWYRQDTGHELRLIYYSYGAGSTE-------KGDIPDGYKASRPSQENFSLTLESATPSQTSVYFCASGG----------------GGTLYFGAGTRLSVL", 
+                    "pdbname": "2OI9", 
+                    "blosum_score": 192, 
+                    "identity_score": 0.34545454545454546, 
+                    "cs1": 1, 
+                    "cs3": 0, 
+                    "cs2": 2
+                }, 
+                {
+                    "aligned_sequence": "--VTQSPRNKVAVTGEKVTLSCNQTN------NHNNMYWYRQDTGHELRLIYYSYGAGSTE-------KGDIPDGYKASRPSQENFSLTLESATPSQTSVYFCASGG----------------GGTLYFGAGTRLSVL", 
+                    "pdbname": "2E7L", 
+                    "blosum_score": 192, 
+                    "identity_score": 0.34545454545454546, 
+                    "cs1": 1, 
+                    "cs3": 0, 
+                    "cs2": 2
+                }, 
+                {
+                    "aligned_sequence": "--VTQSPRNKVAVTGEKVTLSCNQTN------NHNNMYWYRQDTGHELRLIHYSYGAGSTE-------KGDIPDGYKASRPSQENFSLILESATPSQTSVYFCASGG----------------GGTLYFGAGTRLSVL", 
+                    "pdbname": "2ICW", 
+                    "blosum_score": 187, 
+                    "identity_score": 0.34545454545454546, 
+                    "cs1": 1, 
+                    "cs3": 0, 
+                    "cs2": 2
+                }, 
+                {
+                    "aligned_sequence": "--VTQSPRNKVAVTGEKVTLSCQQTN------NHNNMYWYRQDTGHGLRLIHYSYGAGSTE-------KGDIPDGYKASRPSQEQFSLILESATPSQTSVYFCASGG----------------GGTLYFGAGTRLSVL", 
+                    "pdbname": "3MC0", 
+                    "blosum_score": 184, 
+                    "identity_score": 0.34545454545454546, 
+                    "cs1": 1, 
+                    "cs3": 0, 
+                    "cs2": 2
+                }, 
+                {
+                    "aligned_sequence": "--VTQSPRNKVAVTGEKVTLSCNQTN------NHNNMYWYRQDTGHGLRLIYYSYGAGSTE-------KGDIPDGYKASRPSQENFSLTLESATPSQTSVYFCASGDAS-------------GAETLYFGPGTRLTVL", 
+                    "pdbname": "2Z35", 
+                    "blosum_score": 184, 
+                    "identity_score": 0.34545454545454546, 
+                    "cs1": 1, 
+                    "cs3": 0, 
+                    "cs2": 2
+                }, 
+                {
+                    "aligned_sequence": "--VTQSPRNKVAVTGEKVTLSCNQTN------NHNNMYWYRQDTGHGLRLIYYSYGAGSTE-------KGDIPDGYKASRPSQENFSLTLESATPSQTSVYFCASGDAS-------------GAETLYFGPGTRLTVL", 
+                    "pdbname": "2PXY", 
+                    "blosum_score": 184, 
+                    "identity_score": 0.34545454545454546, 
+                    "cs1": 1, 
+                    "cs3": 0, 
+                    "cs2": 2
+                }, 
+                {
+                    "aligned_sequence": "--VTQSPRNKVAVTGEKVTLSCQQTN------NHNNMYWYRQDTGHGLRLIHYSYGAGNTE-------KGDIPDGYKASRPSQEQFSLILESATPSQTSVYFCASGG----------------GGTLYFGAGTRLSVL", 
+                    "pdbname": "2APB", 
+                    "blosum_score": 184, 
+                    "identity_score": 0.34545454545454546, 
+                    "cs1": 1, 
+                    "cs3": 0, 
+                    "cs2": 2
+                }, 
+                {
+                    "aligned_sequence": "--VTQSPRNKVAVTGEKVTLSCNQTN------NHNNMYWYRQDTGHGLRLIYYSYGAGSTE-------KGDIPDGYKASRPSQENFSLTLESATPSQTSVYFCASGDAG-------------GGYEQYFGPGTRLTVL", 
+                    "pdbname": "1U3H", 
+                    "blosum_score": 176, 
+                    "identity_score": 0.34545454545454546, 
+                    "cs1": 1, 
+                    "cs3": 0, 
+                    "cs2": 2
+                }, 
+                {
+                    "aligned_sequence": "--VTQSPRNKVTVTGENVTLSCRQTN------SHNYMYWYRQDTGHELRLIYYSYGAGNLQ-------IGDVPDGYKATRTTQEDFFLTLESASPSQTSLYFCASSDA---------------PGQLYFGEGSKLTVL", 
+                    "pdbname": "3TF7", 
+                    "blosum_score": 175, 
+                    "identity_score": 0.34545454545454546, 
+                    "cs1": 1, 
+                    "cs3": 0, 
+                    "cs2": 2
+                }, 
+                {
+                    "aligned_sequence": "--VTQTPKHLVMGMTNKKSLKCEQHM------GHRAMYWYKQKAKKPPELMFVYSYEKLSI-------NESVPSRFSPECPNSSLLNLHLHALQPEDSALYLCASSPTS-------------GIYEQYFGPGTRLTV-", 
+                    "pdbname": "3VXM", 
+                    "blosum_score": 163, 
+                    "identity_score": 0.34545454545454546, 
+                    "cs1": 1, 
+                    "cs3": 0, 
+                    "cs2": 3
+                }, 
+                {
+                    "aligned_sequence": "--VTQSSRYLVKRTGEKVFLECVQDM------DHENMFWYRQDPGLGLRLIYFSYDVKMKE-------KGDIPEGYSVSREKKERFSLILASASTDQTSMYLCASSFLG-------------TGVEQYFGPGTRLTVV", 
+                    "pdbname": "4EUP", 
+                    "blosum_score": 177, 
+                    "identity_score": 0.33636363636363636, 
+                    "cs1": 1, 
+                    "cs3": 0, 
+                    "cs2": 2
+                }, 
+                {
+                    "aligned_sequence": "-GITQSPKYLFRKEGQNVTLSCEQNL------NHDAMYWYRQDPGQGLRLIYYSQIVNDFQ-------KGDIAEGYSVSREKKESFPLTVTSAQKNPTAFYLCASSSR--------------SSYEQYFGPGTRLTV-", 
+                    "pdbname": "4C56", 
+                    "blosum_score": 175, 
+                    "identity_score": 0.3333333333333333, 
+                    "cs1": 1, 
+                    "cs3": 0, 
+                    "cs2": 2
+                }, 
+                {
+                    "aligned_sequence": "-GITQSPKYLFRKEGQNVTLSCEQNL------NHDAMYWYRQDPGQGLRLIYYSQIVNDFQ-------KGDIAEGYSVSREKKESFPLTVTSAQKNPTAFYLCASSSR--------------SSYEQYFGPGTRLTV-", 
+                    "pdbname": "2XNA", 
+                    "blosum_score": 175, 
+                    "identity_score": 0.3333333333333333, 
+                    "cs1": 1, 
+                    "cs3": 0, 
+                    "cs2": 2
+                }, 
+                {
+                    "aligned_sequence": "-GITQSPKYLFRKEGQNVTLSCEQNL------NHDAMYWYRQDPGQGLRLIYYSQIVNDFQ-------KGDIAEGYSVSREKKESFPLTVTSAQKNPTAFYLCASSSR--------------SSYEQYFGPGTRLTV-", 
+                    "pdbname": "1OGA", 
+                    "blosum_score": 175, 
+                    "identity_score": 0.3333333333333333, 
+                    "cs1": 1, 
+                    "cs3": 0, 
+                    "cs2": 2
+                }, 
+                {
+                    "aligned_sequence": "--VTQSPRNKVAVTGGKVTLSCNQTN------NHNNMYWYRQDTGHGLRLIHYSYGAGSTE-------KGDIPDGYKASRPSQENFSLILELATPSQTSVYFCASGG----------------GGTLYFGAGTRLSVL", 
+                    "pdbname": "2Q86", 
+                    "blosum_score": 171, 
+                    "identity_score": 0.32727272727272727, 
+                    "cs1": 1, 
+                    "cs3": 0, 
+                    "cs2": 2
+                }
+            ], 
+            "type": "B"
+        }
+    ], 
+    "tcr_pmhc_pdb": "/services/TCRpMHCmodels-1.0/tmp/6238D6B4000069153E62BC23/model_TCR-pMHC.pdb", 
+    "complex_templates_csv": "/services/TCRpMHCmodels-1.0/tmp/6238D6B4000069153E62BC23/model-complex-templates.csv", 
+    "packing_template": "4JFH", 
+    "blacklist": [], 
+    "pmhc_templates_csv": "/services/TCRpMHCmodels-1.0/tmp/6238D6B4000069153E62BC23/model-pmhc-templates.csv", 
+    "type": "TCR", 
+    "complex_templates": [
+        {
+            "pdb_id": "4EUP", 
+            "pep_identity": 11.11111111111111, 
+            "pep_alignment": "          1        \n          |        \nTemplate: ALGIGILTV\n           |       \nInput:    SLFWNEPAI", 
+            "total_identity": 57.303591470258134, 
+            "mhc_identity": 100.0, 
+            "tcrA_identity": 87.96296296296296, 
+            "tcrB_identity": 33.63636363636363, 
+            "tcrB_alignment": "          1        10        20        30        40        50        60        70        80        90        100       110       120       130      \n          |        |         |         |         |         |         |         |         |         |         |         |         |         |        \nTemplate: --VTQSSRYLVKRTGEKVFLEC<span class=\"lyra-aln-loop-B1\">VQDMDHE------NM</span>FWYRQDPGLGLRLIY<span class=\"lyra-aln-loop-B2\">FSYDVKM----KEKG--DIPE-GYS</span>VSREKKERFSLILASASTDQTSMYLC<span class=\"lyra-aln-loop-B3\">ASSFLGTGVE-------------QY</span>FGPGTRLTVV\n<span class=\"lyra-aln-sticks\">            | || | | |   |   | |<span class=\"lyra-aln-loop-B1\">     |         </span> || | ||       <span class=\"lyra-aln-loop-B2\">  |          ||   ||    |</span>          |   |        | |<span class=\"lyra-aln-loop-B3\">|||    |                |</span>|| |  ||||</span>\nInput:    --VIQSPRHLIKEKRETATLKC<span class=\"lyra-aln-loop-B1\">YPIPRHD------TV</span>YWYQQGPGQDPQFLI<span class=\"lyra-aln-loop-B2\">SFYEKMQ----SDKG--SIPD-RFS</span>AQQFSDYHSELNMSSLELGDSALYFC<span class=\"lyra-aln-loop-B3\">ASSLRVSGNT-------------IY</span>FGEGSWLTVV\n                                <span class=\"lyra-aln-loop-B1\">\u2514\u2500\u2500\u2500\u2500 B1 \u2500\u2500\u2500\u2500\u2500\u2518</span>               <span class=\"lyra-aln-loop-B2\">\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 B2 \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518</span>                          <span class=\"lyra-aln-loop-B3\">\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 B3 \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518</span>          ", 
+            "tcrA_alignment": "          1        10        20        30        40        50        60        70        80        90        100       110       120       130      \n          |        |         |         |         |         |         |         |         |         |         |         |         |         |        \nTemplate: ---VEQNSGPLSVPEGAIASLNCT<span class=\"lyra-aln-loop-A1\">YSDRGSQ-------SF</span>FWYRQY-SGKSPELIMS<span class=\"lyra-aln-loop-A2\">IYSN-----GD</span>KE-D-GRFTAQL-N-KASQYVSLLIRDAQPSDSATYLC<span class=\"lyra-aln-loop-A3\">AVSGGGA----------DGLTF</span>GKGTQVVVTP\n<span class=\"lyra-aln-sticks\">             |||||||||||||||||||||<span class=\"lyra-aln-loop-A1\">|||||||       ||</span>|||||| ||||||||| <span class=\"lyra-aln-loop-A2\">||||     ||</span>|| | ||||||| | |||||||||||| ||||||||||<span class=\"lyra-aln-loop-A3\">||  XXX            | |</span>| ||| || |</span>\nInput:    ---VEQNSGPLSVPEGAIASLNCT<span class=\"lyra-aln-loop-A1\">YSDRGSQ-------SF</span>FWYRQY-SGKSPELIMF<span class=\"lyra-aln-loop-A2\">IYSN-----GD</span>KE-D-GRFTAQL-N-KASQYVSLLIRDSQPSDSATYLC<span class=\"lyra-aln-loop-A3\">AVNN-------------ARLMF</span>GDGTQLVVKP\n                                  <span class=\"lyra-aln-loop-A1\">\u2514\u2500\u2500\u2500\u2500\u2500 A1 \u2500\u2500\u2500\u2500\u2500\u2518</span>                 <span class=\"lyra-aln-loop-A2\">\u2514\u2500\u2500 A2 \u2500\u2500\u2500\u2518</span>                                      <span class=\"lyra-aln-loop-A3\">\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 A3 \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518</span>          ", 
+            "mhc_alignment": "          1        10        20        30        40        50        60        70        80        90        100       110       120       130       140       150       160       170       180\n          |        |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         | \nTemplate: GSHSMRYFFTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEG-PEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKDYIALKEDLRSWTAADMAAQTTKHKWEAAHVAEQ-LRAYLEGTCVEWLRRYLENGKETL\n          |||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||\nInput:    GSHSMRYFFTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEG-PEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKDYIALKEDLRSWTAADMAAQTTKHKWEAAHVAEQ-LRAYLEGTCVEWLRRYLENGKETL"
+        }, 
+        {
+            "pdb_id": "3O4L", 
+            "pep_identity": 11.11111111111111, 
+            "pep_alignment": "          1        \n          |        \nTemplate: GLCTLVAML\n           |       \nInput:    SLFWNEPAI", 
+            "total_identity": 49.856489522356696, 
+            "mhc_identity": 100.0, 
+            "tcrA_identity": 48.598130841121495, 
+            "tcrB_identity": 28.31858407079646, 
+            "tcrB_alignment": "          1        10        20        30        40        50        60        70        80        90        100       110       120       130      \n          |        |         |         |         |         |         |         |         |         |         |         |         |         |        \nTemplate: --VSQHPSWVICKSGTSVKIEC<span class=\"lyra-aln-loop-B1\">RSLDFQAT-----TM</span>FWYRQFPKQSLMLMA<span class=\"lyra-aln-loop-B2\">TSNEGSK----ATYE-QGVEKDKFL</span>INHASLTLSTLTVTSAHPEDSSFYIC<span class=\"lyra-aln-loop-B3\">SARDGTGNG--------------YT</span>FGSGTRLTVV\n<span class=\"lyra-aln-sticks\">            | | |   |          |<span class=\"lyra-aln-loop-B1\">       X     | </span> || | | |      <span class=\"lyra-aln-loop-B2\">   |            X    X | </span>    |   | |   |    ||  | |<span class=\"lyra-aln-loop-B3\">         X               </span>|| |  ||||</span>\nInput:    --VIQSPRHLIKEKRETATLKC<span class=\"lyra-aln-loop-B1\">YPIPRHD------TV</span>YWYQQGPGQDPQFLI<span class=\"lyra-aln-loop-B2\">SFYEKMQ----SDKG--SIPD-RFS</span>AQQFSDYHSELNMSSLELGDSALYFC<span class=\"lyra-aln-loop-B3\">ASSLRVSGNT-------------IY</span>FGEGSWLTVV\n                                <span class=\"lyra-aln-loop-B1\">\u2514\u2500\u2500\u2500\u2500 B1 \u2500\u2500\u2500\u2500\u2500\u2518</span>               <span class=\"lyra-aln-loop-B2\">\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 B2 \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518</span>                          <span class=\"lyra-aln-loop-B3\">\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 B3 \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518</span>          ", 
+            "tcrA_alignment": "          1        10        20        30        40        50        60        70        80        90        100       110       120       130      \n          |        |         |         |         |         |         |         |         |         |         |         |         |         |        \nTemplate: ----------LSVREGDSSVINCT<span class=\"lyra-aln-loop-A1\">YTDSSST-------YL</span>YWYKQE-PGAGLQLLTY<span class=\"lyra-aln-loop-A2\">IFSNM----DM</span>KQ-D-QRKTVLL-N-KKDKHLSLRIADTQTGDSAIYFC<span class=\"lyra-aln-loop-A3\">AEDNN------------ARLMF</span>GDGTQLVVKP\n<span class=\"lyra-aln-sticks\">             XXXXXXX||| ||     |||<span class=\"lyra-aln-loop-A1\">| |  |          </span> || |   |    |   <span class=\"lyra-aln-loop-A2\">| ||X      </span>|  |  | |  | | |     || | | |  ||| | |<span class=\"lyra-aln-loop-A3\">|  |X            |||||</span>||||||||||</span>\nInput:    ---VEQNSGPLSVPEGAIASLNCT<span class=\"lyra-aln-loop-A1\">YSDRGSQ-------SF</span>FWYRQY-SGKSPELIMF<span class=\"lyra-aln-loop-A2\">IYSN-----GD</span>KE-D-GRFTAQL-N-KASQYVSLLIRDSQPSDSATYLC<span class=\"lyra-aln-loop-A3\">AVNN-------------ARLMF</span>GDGTQLVVKP\n                                  <span class=\"lyra-aln-loop-A1\">\u2514\u2500\u2500\u2500\u2500\u2500 A1 \u2500\u2500\u2500\u2500\u2500\u2518</span>                 <span class=\"lyra-aln-loop-A2\">\u2514\u2500\u2500 A2 \u2500\u2500\u2500\u2518</span>                                      <span class=\"lyra-aln-loop-A3\">\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 A3 \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518</span>          ", 
+            "mhc_alignment": "          1        10        20        30        40        50        60        70        80        90        100       110       120       130       140       150       160       170       180\n          |        |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         | \nTemplate: GSHSMRYFFTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEG-PEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKDYIALKEDLRSWTAADMAAQTTKHKWEAAHVAEQ-LRAYLEGTCVEWLRRYLENGKETL\n          |||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||\nInput:    GSHSMRYFFTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEG-PEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKDYIALKEDLRSWTAADMAAQTTKHKWEAAHVAEQ-LRAYLEGTCVEWLRRYLENGKETL"
+        }, 
+        {
+            "pdb_id": "5D2N", 
+            "pep_identity": 11.11111111111111, 
+            "pep_alignment": "          1        \n          |        \nTemplate: NLVPMVATV\n           |       \nInput:    SLFWNEPAI", 
+            "total_identity": 47.26663742506419, 
+            "mhc_identity": 99.4413407821229, 
+            "tcrA_identity": 23.364485981308412, 
+            "tcrB_identity": 39.130434782608695, 
+            "tcrB_alignment": "          1        10        20        30        40        50        60        70        80        90        100       110       120       130      \n          |        |         |         |         |         |         |         |         |         |         |         |         |         |        \nTemplate: AGVSQSPRYKVTKRGQDVALRC<span class=\"lyra-aln-loop-B1\">DPISGHV------SL</span>YWYRQALGQGPEFLT<span class=\"lyra-aln-loop-B2\">YFNYEAQ----QDKS--GLPNDRFS</span>AERPEGSISTLTIQRTEQRDSAMYRC<span class=\"lyra-aln-loop-B3\">ASSLAPGTTNEK-----------LF</span>FGSGTQLSVL\n<span class=\"lyra-aln-sticks\">          XX| ||||           | |<span class=\"lyra-aln-loop-B1\"> ||  |         </span>||| |  || | || <span class=\"lyra-aln-loop-B2\"> |    |     ||     | X|||</span>|       | |     |  ||| | |<span class=\"lyra-aln-loop-B3\">||||      XX             </span>|| |  | | </span>\nInput:    --VIQSPRHLIKEKRETATLKC<span class=\"lyra-aln-loop-B1\">YPIPRHD------TV</span>YWYQQGPGQDPQFLI<span class=\"lyra-aln-loop-B2\">SFYEKMQ----SDKG--SIPD-RFS</span>AQQFSDYHSELNMSSLELGDSALYFC<span class=\"lyra-aln-loop-B3\">ASSLRVSGNT-------------IY</span>FGEGSWLTVV\n                                <span class=\"lyra-aln-loop-B1\">\u2514\u2500\u2500\u2500\u2500 B1 \u2500\u2500\u2500\u2500\u2500\u2518</span>               <span class=\"lyra-aln-loop-B2\">\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 B2 \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518</span>                          <span class=\"lyra-aln-loop-B3\">\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 B3 \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518</span>          ", 
+            "tcrA_alignment": "          1        10        20        30        40        50        60        70        80        90        100       110       120       130      \n          |        |         |         |         |         |         |         |         |         |         |         |         |         |        \nTemplate: ----TTQPNSMESNEEEPVHLPCN<span class=\"lyra-aln-loop-A1\">HSTISGTD------YI</span>HWYRQL-PSQGPEYVIH<span class=\"lyra-aln-loop-A2\">GLT------SN</span>VN-N-RMASLAI-A-EDRKSSTLILHRATLRDAAVYYC<span class=\"lyra-aln-loop-A3\">ILDNN------------NDMRF</span>GAGTRLTVKP\n<span class=\"lyra-aln-sticks\">             X          |     | | <span class=\"lyra-aln-loop-A1\"> |     X        </span> ||||      ||    <span class=\"lyra-aln-loop-A2\">   X       </span>                      |        | | | |<span class=\"lyra-aln-loop-A3\">   |X                |</span>| || | |||</span>\nInput:    ---VEQNSGPLSVPEGAIASLNCT<span class=\"lyra-aln-loop-A1\">YSDRGSQ-------SF</span>FWYRQY-SGKSPELIMF<span class=\"lyra-aln-loop-A2\">IYSN-----GD</span>KE-D-GRFTAQL-N-KASQYVSLLIRDSQPSDSATYLC<span class=\"lyra-aln-loop-A3\">AVNN-------------ARLMF</span>GDGTQLVVKP\n                                  <span class=\"lyra-aln-loop-A1\">\u2514\u2500\u2500\u2500\u2500\u2500 A1 \u2500\u2500\u2500\u2500\u2500\u2518</span>                 <span class=\"lyra-aln-loop-A2\">\u2514\u2500\u2500 A2 \u2500\u2500\u2500\u2518</span>                                      <span class=\"lyra-aln-loop-A3\">\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 A3 \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518</span>          ", 
+            "mhc_alignment": "          1        10        20        30        40        50        60        70        80        90        100       110       120       130       140       150       160       170       180\n          |        |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         | \nTemplate: -SHSMRYFFTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEG-PEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKDYIALKEDLRSWTAADMAAQTTKHKWEAAHVAEQ-LRAYLEGTCVEWLRRYLENGKETL\n          X||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||\nInput:    GSHSMRYFFTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEG-PEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKDYIALKEDLRSWTAADMAAQTTKHKWEAAHVAEQ-LRAYLEGTCVEWLRRYLENGKETL"
+        }, 
+        {
+            "pdb_id": "4MNQ", 
+            "pep_identity": 11.11111111111111, 
+            "pep_alignment": "          1        \n          |        \nTemplate: ILAKFLHWL\n           |       \nInput:    SLFWNEPAI", 
+            "total_identity": 47.05553768053768, 
+            "mhc_identity": 100.0, 
+            "tcrA_identity": 32.432432432432435, 
+            "tcrB_identity": 27.67857142857143, 
+            "tcrB_alignment": "          1        10        20        30        40        50        60        70        80        90        100       110       120       130      \n          |        |         |         |         |         |         |         |         |         |         |         |         |         |        \nTemplate: AGVTQTPKFQVLKTGQSMTLQC<span class=\"lyra-aln-loop-B1\">AQDMNHE------YM</span>SWYRQDPGMGLRLIH<span class=\"lyra-aln-loop-B2\">YSIHPEY----TDQG--EVPN-GYN</span>VSRSTTEDFPLRLLSAAPSQTSVYFC<span class=\"lyra-aln-loop-B3\">ASSYQGTE---------------AF</span>FGQGTRLTVV\n<span class=\"lyra-aln-sticks\">          XX| | |           || |<span class=\"lyra-aln-loop-B1\">     |         </span> || | ||       <span class=\"lyra-aln-loop-B2\">            | |    |     </span>          |   |        |||<span class=\"lyra-aln-loop-B3\">|||     XX               </span>|| |  ||||</span>\nInput:    --VIQSPRHLIKEKRETATLKC<span class=\"lyra-aln-loop-B1\">YPIPRHD------TV</span>YWYQQGPGQDPQFLI<span class=\"lyra-aln-loop-B2\">SFYEKMQ----SDKG--SIPD-RFS</span>AQQFSDYHSELNMSSLELGDSALYFC<span class=\"lyra-aln-loop-B3\">ASSLRVSGNT-------------IY</span>FGEGSWLTVV\n                                <span class=\"lyra-aln-loop-B1\">\u2514\u2500\u2500\u2500\u2500 B1 \u2500\u2500\u2500\u2500\u2500\u2518</span>               <span class=\"lyra-aln-loop-B2\">\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 B2 \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518</span>                          <span class=\"lyra-aln-loop-B3\">\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 B3 \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518</span>          ", 
+            "tcrA_alignment": "          1        10        20        30        40        50        60        70        80        90        100       110       120       130      \n          |        |         |         |         |         |         |         |         |         |         |         |         |         |        \nTemplate: --QVEQSPPDLILQEGANSTLRCN<span class=\"lyra-aln-loop-A1\">FSDSVN--------NL</span>WWFHQN-PWGQLINLFY<span class=\"lyra-aln-loop-A2\">IPS------GT</span>KQ-N-GRLSATT-V-ATERYSLLYISSSQTTDSGVYFC<span class=\"lyra-aln-loop-A3\">AVDSATALP--------YGYIF</span>GTGTRLKV--\n<span class=\"lyra-aln-sticks\">            X|||    |   |||   | | <span class=\"lyra-aln-loop-A1\"> ||   X         </span> |  |            <span class=\"lyra-aln-loop-A2\">| |X     | </span>|    ||  |         |  | |  ||  ||  | |<span class=\"lyra-aln-loop-A3\">||  XXXXX            |</span>| || | |XX</span>\nInput:    ---VEQNSGPLSVPEGAIASLNCT<span class=\"lyra-aln-loop-A1\">YSDRGSQ-------SF</span>FWYRQY-SGKSPELIMF<span class=\"lyra-aln-loop-A2\">IYSN-----GD</span>KE-D-GRFTAQL-N-KASQYVSLLIRDSQPSDSATYLC<span class=\"lyra-aln-loop-A3\">AVNN-------------ARLMF</span>GDGTQLVVKP\n                                  <span class=\"lyra-aln-loop-A1\">\u2514\u2500\u2500\u2500\u2500\u2500 A1 \u2500\u2500\u2500\u2500\u2500\u2518</span>                 <span class=\"lyra-aln-loop-A2\">\u2514\u2500\u2500 A2 \u2500\u2500\u2500\u2518</span>                                      <span class=\"lyra-aln-loop-A3\">\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 A3 \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518</span>          ", 
+            "mhc_alignment": "          1        10        20        30        40        50        60        70        80        90        100       110       120       130       140       150       160       170       180\n          |        |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         | \nTemplate: GSHSMRYFFTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEG-PEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKDYIALKEDLRSWTAADMAAQTTKHKWEAAHVAEQ-LRAYLEGTCVEWLRRYLENGKETL\n          |||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||\nInput:    GSHSMRYFFTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEG-PEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKDYIALKEDLRSWTAADMAAQTTKHKWEAAHVAEQ-LRAYLEGTCVEWLRRYLENGKETL"
+        }
+    ], 
+    "alignment": {
+        "Beta chain": "          1        10        20        30        40        50        60        70        80        90        100       110       120       130      \n          |        |         |         |         |         |         |         |         |         |         |         |         |         |        \nTemplate: --VVQSPRHIIKEKGGRSVLTC<span class=\"lyra-aln-loop-B1\">IPISGHS------NV</span>VWYQQTLGKELKFLI<span class=\"lyra-aln-loop-B2\">QHYEKVE----RDKG--FLPS-RFS</span>VQQFDDYHSEMNMSALELEDSAMYFC<span class=\"lyra-aln-loop-B3\">ASSWDRAGNT-------------LY</span>FGPGTRLTVL\n<span class=\"lyra-aln-sticks\">            | ||||| ||||     | |<span class=\"lyra-aln-loop-B1\"> ||  |        |</span> ||||  |    |||<span class=\"lyra-aln-loop-B2\">  |||       |||    |  |||</span> ||| ||||| ||| ||| ||| |||<span class=\"lyra-aln-loop-B3\">|||    |||              |</span>|| |  ||| </span>\nInput:    --VIQSPRHLIKEKRETATLKC<span class=\"lyra-aln-loop-B1\">YPIPRHD------TV</span>YWYQQGPGQDPQFLI<span class=\"lyra-aln-loop-B2\">SFYEKMQ----SDKG--SIPD-RFS</span>AQQFSDYHSELNMSSLELGDSALYFC<span class=\"lyra-aln-loop-B3\">ASSLRVSGNT-------------IY</span>FGEGSWLTVV\n                                <span class=\"lyra-aln-loop-B1\">\u2514\u2500\u2500\u2500\u2500 B1 \u2500\u2500\u2500\u2500\u2500\u2518</span>               <span class=\"lyra-aln-loop-B2\">\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 B2 \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518</span>                          <span class=\"lyra-aln-loop-B3\">\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 B3 \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518</span>          &nbsp;", 
+        "Alpha chain": "          1        10        20        30        40        50        60        70        80        90        100       110       120       130      \n          |        |         |         |         |         |         |         |         |         |         |         |         |         |        \nTemplate: ---VEQNSGPLSVPEGAIASLNCT<span class=\"lyra-aln-loop-A1\">YSDRGSQ-------SF</span>FWYRQY-SGKSPELIMF<span class=\"lyra-aln-loop-A2\">IYSN-----GD</span>KE-D-GRFTAQL-N-KASQYVSLLIRDSQPSDSATYLC<span class=\"lyra-aln-loop-A3\">AVTT-------------GKLQF</span>GQGTELSVKP\n<span class=\"lyra-aln-sticks\">             |||||||||||||||||||||<span class=\"lyra-aln-loop-A1\">|||||||       ||</span>|||||| ||||||||||<span class=\"lyra-aln-loop-A2\">||||     ||</span>|| | ||||||| | |||||||||||||||||||||||<span class=\"lyra-aln-loop-A3\">||                 | |</span>| || | |||</span>\nInput:    ---VEQNSGPLSVPEGAIASLNCT<span class=\"lyra-aln-loop-A1\">YSDRGSQ-------SF</span>FWYRQY-SGKSPELIMF<span class=\"lyra-aln-loop-A2\">IYSN-----GD</span>KE-D-GRFTAQL-N-KASQYVSLLIRDSQPSDSATYLC<span class=\"lyra-aln-loop-A3\">AVNN-------------ARLMF</span>GDGTQLVVKP\n                                  <span class=\"lyra-aln-loop-A1\">\u2514\u2500\u2500\u2500\u2500\u2500 A1 \u2500\u2500\u2500\u2500\u2500\u2518</span>                 <span class=\"lyra-aln-loop-A2\">\u2514\u2500\u2500 A2 \u2500\u2500\u2500\u2518</span>                                      <span class=\"lyra-aln-loop-A3\">\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 A3 \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518</span>          &nbsp;"
+    }
+}

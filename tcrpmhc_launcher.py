@@ -136,7 +136,7 @@ def main(project_name, fasta_directory):
     fasta_list = [fasta_input for fasta_input in ls(fasta_directory)]
     for fasta_input in fasta_list:
         if fasta_input.endswith('.fasta'):
-            print(f"-- Processing {fasta_input}.")
+            print(f"-- Processing {fasta_input} @ {project_directory}.")
             running_tcrpmhc(driver, project_directory, os.path.abspath(fasta_input))
 
     if not fasta_list:
