@@ -18,10 +18,11 @@ tcr0002,AAAAAAAAAAAAAAAAAAAAAA,BBBBBBBBBBBBBBBBBBBBBB,TRAV12-3*02,TRAJ1*01,TRBV1
 Usage:
 
 ```
-python3 tcr_builder.py template.csv
+mkdir output_directory
+python3 tcr_builder.py template.csv output_directory
 ```
 
-Output: output/tcr0001.fasta 
+Output: output_directory/tcr0001.fasta 
 
 
 ```

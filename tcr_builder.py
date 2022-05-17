@@ -36,9 +36,6 @@ def main(template, outdir):
 
     '''
 
-    if not outdir:
-        outdir = "./output"
-
     tcr_dictionary = tcr_database()
     imgt_dictionary = imgt_database()
     
