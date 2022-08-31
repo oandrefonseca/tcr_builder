@@ -24,7 +24,7 @@ mkdir output
 python3 tcr_builder.py template.csv output
 ```
 
-Output: output_directory/tcr0001.fasta 
+Output: output/tcr0001.fasta 
 
 
 ```
