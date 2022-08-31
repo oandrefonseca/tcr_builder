@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/530866889.svg)](https://zenodo.org/badge/latestdoi/530866889)
+
 # TCR Builder
 
 Scripts to build multiple TCRpMHC fasta based on TCRModel and IMGT database
